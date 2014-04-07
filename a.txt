@@ -1,0 +1,7692 @@
+Matrix Report
+	  			
+M02000 	
+  Matrix: V$ERR3_Q2 - ERR3 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+1 	5 	0 	1 	C
+6 	0 	2 	0 	A
+8 	0 	0 	0 	A
+0 	0 	7 	1 	G
+0 	0 	8 	0 	G
+1 	0 	0 	7 	T
+1 	6 	0 	1 	C
+6 	0 	1 	0 	A
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse ERR3
+          Human ERR3
+          Rat ERR3
+          Mammalia ERR3
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TAAGGTCA 	R24691 	9 	8 	  	p
+CGAGGTCA 	R28118 	8 	8 	  	p
+AGAGGTCA 	R28119 	5 	8 	  	p
+CAATGTCA 	R31026 	5 	8 	  	n
+CAAGGACA 	R31027 	18 	8 	  	p
+CAAGGTAn 	R33941 	-1 	8 	  	n
+nAAGGTCA 	R33944 	-1 	8 	  	p
+CAAGGTTG 	R34094 	6 	8 	  	p
+Basis for binding site sequence selection : 8 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02000
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+
+Matrix Report
+	  			
+M02002 	
+  Matrix: V$EVI1_Q3 - Evi-1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	0 	1 	6 	T
+5 	1 	0 	1 	A
+0 	1 	0 	6 	T
+0 	7 	0 	0 	C
+1 	0 	0 	6 	T
+0 	0 	0 	7 	T
+0 	0 	7 	0 	G
+0 	0 	0 	7 	T
+1 	6 	0 	0 	C
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse Evi-1
+          Mouse Evi-1
+          Human Evi-1
+          Human Evi-1
+          Rat Evi1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TATCTTGTC 	R15614 	11 	9 	  	n
+TATCTTGTC 	R15615 	11 	9 	  	n
+TATCTTGTC 	R15616 	11 	9 	  	n
+TATCTTGTC 	R15617 	11 	9 	  	n
+TATCTTGTC 	R15618 	11 	9 	  	n
+TCTCTTGTA 	R23159 	8 	9 	  	p
+GTCCATGTC 	R31847 	12 	9 	  	p
+Basis for binding site sequence selection : 7 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02002
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+
+Matrix Report
+	  			
+M02006 	
+  Matrix: V$GATA5_Q4 - GATA-5 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+4 	3 	4 	4 	N
+9 	0 	2 	4 	A
+1 	0 	14 	0 	G
+15 	0 	0 	0 	A
+0 	0 	0 	15 	T
+11 	0 	0 	4 	A
+11 	0 	2 	2 	A
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human GATA-5
+          Human GATA-5
+          Mouse GATA-5
+          Mouse GATA-5
+          Rat GATA-5
+          Rat GATA-5
+          Mammalia GATA-5
+          Gallus gallus GATA-5
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GAGATTA 	R08290 	8 	7 	  	p
+CTGATAA 	R13027 	9 	7 	  	p
+CTGATAA 	R13027 	9 	7 	  	p
+TAGATAA 	R14557 	6 	7 	  	p
+CAGATTA 	R23663 	8 	7 	  	n
+AAGATTA 	R23667 	9 	7 	  	n
+TAGATAA 	R23668 	14 	7 	  	n
+TTGATAA 	R23669 	7 	7 	  	p
+tAGATAA 	R28728 	8 	7 	  	p
+gTGATAA 	R28814 	8 	7 	  	p
+GGGATAG 	R29127 	9 	7 	  	p
+GGGATAT 	R32187 	14 	7 	  	p
+AAGATAA 	R32194 	11 	7 	  	p
+ATGATAG 	R32366 	10 	7 	  	n
+CAGATTT 	R33832 	6 	7 	  	p
+AAAATAA 	R33833 	14 	7 	  	p
+Basis for binding site sequence selection : 16 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02006
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+
+Matrix Report
+	  			
+M02009 	
+  Matrix: V$GCNF_Q3 - GCNF 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+1 	3 	1 	1 	N
+4 	0 	2 	0 	R
+6 	0 	0 	0 	A
+0 	0 	6 	0 	G
+0 	0 	5 	1 	G
+0 	0 	0 	6 	T
+0 	6 	0 	0 	C
+6 	0 	0 	0 	A
+4 	1 	0 	1 	A
+1 	1 	2 	2 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human GCNF
+          Human GCNF-1
+          Human GCNF-2
+          Mouse GCNF
+          Mouse GCNF
+          Mammalia GCNF
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CAAGGTCATT 	R10048 	8 	10 	  	p
+TGAGGTCAAC 	R20995 	12 	10 	  	p
+CAAGTTCACT 	R21226 	7 	10 	  	p
+GAAGGTCAAG 	R26862 	4 	10 	  	p
+CAAGGTCAAA 	R26865 	14 	10 	  	p
+AGAGGTCAAG 	R26891 	-2 	10 	  	p
+Basis for binding site sequence selection : 6 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02009
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+
+Matrix Report
+	  			
+M02010 	
+  Matrix: V$GFI1_Q6_01 - Gfi1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+11 	31 	5 	6 	C
+13 	12 	4 	24 	N
+7 	17 	24 	5 	S
+15 	1 	13 	24 	N
+0 	0 	53 	0 	G
+50 	3 	0 	0 	A
+0 	0 	0 	53 	T
+0 	0 	0 	53 	T
+13 	4 	7 	29 	T
+9 	19 	14 	10 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Rat Gfi1
+          Rat Gfi1
+          Mammalia Gfi1
+          Mouse Gfi1
+          Mouse Gfi1
+          Human Gfi1
+          Human Gfi1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CGGGGATTTC 	R16772 	6 	10 	  	p
+CGTTGATTTT 	R16773 	1 	10 	  	n
+ctggGATTgg 	R16780 	10 	10 	  	p
+cacaGATTgn 	R16782 	-1 	10 	  	n
+cacaGATTca 	R16783 	13 	10 	  	n
+aactGATTgg 	R16784 	6 	10 	  	n
+ccgaGATTag 	R16785 	19 	10 	  	n
+CCGTGATTTC 	R16947 	9 	10 	  	p
+CCATGATTGG 	R16957 	8 	10 	  	p
+CTGGGATTAC 	R16962 	12 	10 	  	n
+GCCTGCTTTT 	R16964 	11 	10 	  	n
+CAGCGCTTTG 	R16965 	19 	10 	  	p
+CCAGGCTTGT 	R16966 	11 	10 	  	n
+ctgagattac 	R16993 	12 	10 	  	p
+accagatttg 	R16995 	11 	10 	  	p
+ctggGATTac 	R16996 	11 	10 	  	n
+CTGGGATTAC 	R17017 	11 	10 	  	n
+CTGTGATTAA 	R17018 	11 	10 	  	n
+ctggGATTac 	R17019 	11 	10 	  	n
+cactgattcc 	R17022 	12 	10 	  	p
+ctggGATTtt 	R17023 	9 	10 	  	n
+ctgtGATTac 	R17024 	10 	10 	  	n
+atcaGATTtg 	R17025 	10 	10 	  	n
+ctgtGATTcc 	R17026 	10 	10 	  	n
+gccagatttg 	R17027 	12 	10 	  	p
+ctcaGATTtc 	R17028 	7 	10 	  	n
+AACAGATTTA 	R17029 	12 	10 	  	p
+ACCTGATTTG 	R17030 	9 	10 	  	n
+tcctGATTtg 	R17031 	10 	10 	  	n
+CAGAGATTCT 	R17032 	16 	10 	  	n
+AACTGATTTC 	R17033 	11 	10 	  	p
+AAAAGATTTA 	R17034 	11 	10 	  	n
+ttaggatttg 	R17038 	11 	10 	  	p
+atgtgatttc 	R17040 	12 	10 	  	p
+TACTGATTTG 	R17041 	11 	10 	  	p
+CAGTGATTAT 	R17043 	9 	10 	  	n
+ACTGGATTTA 	R17044 	9 	10 	  	n
+GCTGGATTTT 	R17047 	10 	10 	  	n
+ATCGGATTTG 	R17048 	12 	10 	  	p
+CTTTGATTTC 	R17049 	13 	10 	  	p
+CGATGATTTA 	R17051 	12 	10 	  	p
+ctggGATTac 	R17053 	9 	10 	  	n
+CAGAGATTTC 	R17054 	10 	10 	  	p
+ctaaGATTac 	R17055 	8 	10 	  	n
+ctgaGATTac 	R17056 	15 	10 	  	n
+GAGAGATTAG 	R17057 	10 	10 	  	n
+CCCTGATTGC 	R26763 	7 	10 	  	n
+ttatGATTgt 	R31946 	5 	10 	  	n
+ATGTGATTTA 	R31972 	4 	10 	  	n
+TTTTGATTTT 	R34359 	13 	10 	  	p
+GTGTGATTTT 	R34362 	12 	10 	  	p
+ttctGATTta 	R34363 	13 	10 	  	n
+cggTGATtta 	R34365 	13 	10 	  	p
+Basis for binding site sequence selection : 53 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02010
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02011 	
+  Matrix: V$HES1_Q6 - HES1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+1 	4 	10 	2 	G
+2 	6 	8 	1 	S
+0 	20 	0 	0 	C
+20 	0 	0 	0 	A
+0 	20 	0 	0 	C
+3 	3 	13 	1 	G
+9 	9 	0 	2 	M
+2 	0 	17 	1 	G
+5 	8 	4 	0 	M
+1 	9 	2 	4 	C
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human HES-1
+          Human HES-1
+          Mammalia HES-1
+          Mouse HES-1
+          Mouse HES-1
+          Rat HES-1
+          Rat HES-1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CCCACCAGGC 	R02601 	10 	10 	  	p
+CCCACCAGGC 	R02601 	10 	10 	  	p
+GGCACAAGGT 	R04468 	-2 	10 	  	n
+TCCACGAGCG 	R04469 	-2 	10 	  	p
+CACACGAGCC 	R04470 	-2 	10 	  	p
+GCCACGCGAG 	R15364 	9 	10 	  	n
+GGCACGCTCC 	R15366 	9 	10 	  	p
+GGCACACGAC 	R15367 	16 	10 	  	p
+ACCACAAGGG 	R15377 	10 	10 	  	p
+GACACCTGCT 	R20270 	18 	10 	  	p
+gtCACGCGac 	R22829 	6 	10 	  	p
+ggCACGTGcc 	R22843 	9 	10 	  	n
+ggCACGCGac 	R22844 	10 	10 	  	p
+cgCACGCAct 	R22846 	11 	10 	  	p
+tcCACGAGcg 	R22847 	6 	10 	  	p
+GCCACGAGCC 	R22854 	3 	10 	  	p
+TGCACGCGAA 	R25445 	10 	10 	  	n
+CGCACGCACT 	R26836 	9 	10 	  	p
+GACACGAGCT 	R26876 	9 	10 	  	p
+gGCACTCGGC 	R28165 	7 	10 	  	p
+Basis for binding site sequence selection : 20 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02011
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02012 	
+  Matrix: V$HIF1A_Q6 - HIF-1alpha 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+10 	9 	27 	11 	N
+0 	54 	3 	0 	C
+56 	1 	0 	0 	A
+1 	54 	2 	0 	C
+0 	2 	55 	0 	G
+2 	13 	2 	40 	T
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human HIF-1alpha
+          Human HIF-1alpha-isoform2
+          Human HIF-1alpha-isoform1
+          Mouse HIF-1alpha
+          Mouse HIF-1alpha-xbb2
+          Mouse HIF-1alpha-isoform1
+          Rat HIF-1alpha
+          Rat HIF-1alpha
+          Mammalia HIF-1alpha
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GCACGT 	R03219 	6 	6 	  	n
+GCACGT 	R10172 	9 	6 	  	p
+CCACGT 	R10227 	9 	6 	  	n
+GCACGT 	R10395 	10 	6 	  	n
+GCACGT 	R10395 	10 	6 	  	n
+ACACGT 	R13214 	16 	6 	  	p
+GCACGT 	R13221 	7 	6 	  	n
+CCACGT 	R18841 	8 	6 	  	p
+GCACGT 	R18842 	8 	6 	  	p
+CCACGT 	R18844 	10 	6 	  	n
+GCACGT 	R18845 	10 	6 	  	n
+tCACGt 	R18846 	6 	6 	  	n
+GCACGT 	R21396 	10 	6 	  	n
+GCACGC 	R22177 	18 	6 	  	n
+ACACGC 	R22178 	8 	6 	  	n
+TCACGT 	R22208 	9 	6 	  	p
+ACACGT 	R22251 	19 	6 	  	n
+GCACGT 	R22294 	6 	6 	  	n
+TCACGT 	R22296 	6 	6 	  	n
+TCACGT 	R22336 	6 	6 	  	n
+ACACGC 	R22337 	6 	6 	  	n
+GCACGA 	R25461 	8 	6 	  	n
+GCACGC 	R25462 	17 	6 	  	p
+GGACGC 	R25551 	11 	6 	  	n
+GGAGGC 	R25552 	15 	6 	  	n
+TCACGC 	R26853 	7 	6 	  	n
+TGACGT 	R26928 	10 	6 	  	n
+ACACGT 	R27978 	7 	6 	  	p
+CCACGT 	R28138 	13 	6 	  	p
+ACACGT 	R28320 	11 	6 	  	n
+GCACGT 	R28322 	11 	6 	  	n
+TCACGT 	R28527 	6 	6 	  	p
+CCACGT 	R28621 	8 	6 	  	n
+GCACGT 	R30114 	14 	6 	  	n
+ACACGT 	R30322 	8 	6 	  	p
+TCACGT 	R30323 	5 	6 	  	p
+GCACGT 	R30340 	7 	6 	  	p
+CCACGT 	R30348 	9 	6 	  	n
+cCACGT 	R30398 	12 	6 	  	n
+GCACGT 	R30547 	9 	6 	  	p
+CCACGC 	R31278 	12 	6 	  	n
+GCACGC 	R31347 	9 	6 	  	n
+GCACGT 	R31370 	7 	6 	  	n
+CCACGT 	R31376 	9 	6 	  	p
+TCACGT 	R31392 	18 	6 	  	p
+GCACGT 	R31486 	21 	6 	  	n
+GCACGG 	R31523 	1 	6 	  	p
+TCACGT 	R32375 	17 	6 	  	n
+CCACGA 	R32561 	8 	6 	  	n
+GCAGGC 	R32840 	6 	6 	  	p
+ACACGC 	R33088 	12 	6 	  	p
+TCACGC 	R33089 	9 	6 	  	n
+gCACGT 	R33976 	11 	6 	  	n
+GCACGT 	R34041 	6 	6 	  	n
+GCACct 	R34081 	13 	6 	  	p
+GCACGT 	R34092 	9 	6 	  	n
+ACACGC 	R34132 	13 	6 	  	n
+Basis for binding site sequence selection : 57 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02012
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+
+Matrix Report
+	  			
+M02013 	
+  Matrix: V$HNF1A_Q5 - HNF-1A 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+42 	4 	37 	15 	R
+5 	4 	90 	8 	G
+1 	12 	7 	87 	T
+7 	1 	0 	98 	T
+102 	2 	0 	0 	A
+80 	12 	1 	11 	A
+10 	0 	2 	92 	T
+31 	28 	20 	22 	N
+55 	5 	6 	34 	W
+13 	4 	14 	68 	T
+11 	15 	1 	71 	T
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Sus scrofa HNF-1
+          Human HNF-1alpha
+          Human HNF-1alpha-C
+          Human HNF-1alpha-A
+          Human HNF-1alpha-B
+          Sus scrofa domesticus HNF-1alpha
+          Mammalia HNF-1alpha
+          Mesocricetus auratus HNF-1alpha
+          Cricetulus sp. HNF-1alpha
+          Cricetulus sp. HNF-1alpha
+          Gallus gallus HNF-1alpha
+          Mammalia HNF-1A
+          Rat HNF-1alpha
+          Rat HNF-1alpha
+          Mouse HNF-1alpha
+          Mouse HNF-1alpha
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GGTTAGTAATT 	R00077 	2 	11 	  	p
+AGTTAATAATC 	R00081 	4 	11 	  	p
+GGTTAATGATC 	R00091 	6 	11 	  	p
+GGTTAATGATC 	R00099 	2 	11 	  	p
+GGTTAATATTC 	R00118 	2 	11 	  	p
+AGTTATTTATT 	R00237 	6 	11 	  	n
+AATTATTTACA 	R00238 	12 	11 	  	p
+TGTTAATTATT 	R00431 	1 	11 	  	p
+GGTTACTAGTT 	R00432 	4 	11 	  	p
+ATTTATTTGAG 	R01625 	7 	11 	  	p
+AGTTATTGAAT 	R01800 	4 	11 	  	p
+AGTTAATCATT 	R01807 	2 	11 	  	p
+AGTTAATCATT 	R01913 	-1 	11 	  	p
+AGTTAATCATT 	R01913 	-1 	11 	  	p
+TGTTAATTATT 	R02045 	-1 	11 	  	p
+AGCTAATAATA 	R02780 	15 	11 	  	p
+AGGTAATTGTT 	R02895 	3 	11 	  	p
+GGTTAATGATT 	R02910 	13 	11 	  	n
+TCTTAAATACC 	R02970 	7 	11 	  	p
+AGTTAATGTGT 	R03253 	10 	11 	  	n
+AGTTAAATAGA 	R03260 	5 	11 	  	n
+CCATATTGGTG 	R03302 	-4 	11 	  	n
+GTCTACTCTAG 	R03305 	4 	11 	  	n
+GGTTAATTTTT 	R03485 	4 	11 	  	p
+GGTTAAAGTCA 	R03666 	59 	11 	  	n
+GGTTACTAGTT 	R04019 	20 	11 	  	p
+GGGTACTGCAA 	R04122 	23 	11 	  	p
+TGTTCCTGCTC 	R04123 	2 	11 	  	p
+AGTTAATTAGT 	R04237 	6 	11 	  	n
+GTTTAATAATC 	R04238 	3 	11 	  	n
+GGTTAATTCTT 	R04474 	12 	11 	  	n
+AGCCAATnnnn 	R08083 	8 	11 	  	p
+GGTTCATATTT 	R08491 	8 	11 	  	n
+ACTTAATATTT 	R12423 	-1 	11 	  	p
+AGCTAATAATA 	R12711 	20 	11 	  	p
+AGCTAATAATA 	R12712 	20 	11 	  	p
+TGTTAATAATT 	R13038 	1 	11 	  	p
+GGTTAATCGGT 	R13051 	-1 	11 	  	n
+GGTTACTCTTT 	R13053 	-1 	11 	  	p
+CACTAATGCGT 	R13269 	7 	11 	  	p
+AGTTATGTATA 	R14649 	5 	11 	  	p
+agGAATTnnnn 	R14713 	-4 	11 	  	n
+AGTTAAAATAT 	R14722 	8 	11 	  	n
+AGTTAAAATGT 	R14761 	4 	11 	  	n
+AGTTAAAATGT 	R14764 	12 	11 	  	n
+GTTTAATAAAT 	R15363 	10 	11 	  	n
+AGTTAATCATA 	R15848 	18 	11 	  	n
+AGTTAAACTTC 	R15849 	15 	11 	  	n
+GTTTAATATTC 	R15909 	7 	11 	  	p
+GGTTAATCTTT 	R17072 	6 	11 	  	p
+TGTTAATAGTT 	R17145 	1 	11 	  	p
+nGGTATTTATT 	R17157 	-1 	11 	  	p
+GGTTACTGATT 	R17191 	11 	11 	  	n
+GGTTACTCATT 	R17192 	3 	11 	  	p
+AGTAAATCATT 	R18909 	5 	11 	  	p
+GGTAAATCATT 	R18912 	5 	11 	  	p
+AGTAAATCATT 	R18913 	5 	11 	  	p
+AGTAAATCATT 	R18920 	9 	11 	  	p
+AGTTAATGATT 	R18931 	15 	11 	  	n
+GGGTAATATGC 	R19431 	15 	11 	  	n
+GGTTAATCTTT 	R19432 	5 	11 	  	p
+GGTTAATAATC 	R20253 	20 	11 	  	p
+GCTTAAACATT 	R20311 	-7 	11 	  	n
+TGGTAATATAT 	R20349 	5 	11 	  	p
+AGTTAATGGAT 	R20696 	12 	11 	  	p
+CGTTAATTATT 	R20965 	19 	11 	  	p
+CGTTAATTATT 	R20965 	19 	11 	  	p
+TGCTAATAAAC 	R20966 	5 	11 	  	p
+GGTTAATAATT 	R21010 	5 	11 	  	n
+AGTTAATCAGT 	R21013 	1 	11 	  	p
+TGTTATTAATA 	R21021 	19 	11 	  	n
+AGTTAATCTTT 	R21023 	9 	11 	  	p
+TGTTACTTATT 	R21024 	8 	11 	  	p
+AGTTAATAACT 	R21026 	14 	11 	  	p
+AGTTAATACTT 	R21027 	13 	11 	  	p
+AGCTAATAATC 	R21031 	11 	11 	  	n
+TGTTATTTTAT 	R21032 	18 	11 	  	n
+AGTTAATGTAA 	R21045 	23 	11 	  	p
+AATTAATATTT 	R21051 	22 	11 	  	n
+ATCTAATCAAT 	R21077 	9 	11 	  	n
+AGTTATGCATT 	R21078 	8 	11 	  	n
+GACTAATCTGT 	R21287 	99 	11 	  	p
+GGTTAAAGTAT 	R21329 	11 	11 	  	n
+AGTTAATTTTT 	R21637 	15 	11 	  	p
+TGGTAATTCAA 	R23503 	13 	11 	  	n
+tGTTAATCATT 	R24069 	7 	11 	  	p
+gGTTAATGATT 	R25715 	7 	11 	  	n
+AGTTAATCATT 	R25798 	5 	11 	  	n
+GGTTAATGTGT 	R25820 	9 	11 	  	n
+tGTTAATGATT 	R25886 	5 	11 	  	p
+tGTTACAATAT 	R25889 	8 	11 	  	p
+GGCTAATTTTT 	R25946 	11 	11 	  	n
+GGCAAATTTTT 	R25948 	11 	11 	  	n
+GGTTAATCATT 	R25959 	10 	11 	  	p
+AGTTAATATTC 	R26538 	9 	11 	  	n
+AGTTAATCATC 	R28267 	5 	11 	  	p
+GGTAAATGTGT 	R29650 	11 	11 	  	p
+AATTAATCATT 	R30141 	17 	11 	  	n
+AGTTAATGTTT 	R31488 	8 	11 	  	n
+AGTTACTTATT 	R32185 	15 	11 	  	n
+TGTTAATTATT 	R32481 	8 	11 	  	p
+GGTTAAACAGT 	R32774 	9 	11 	  	n
+GTTTACTCTCT 	R32775 	1 	11 	  	n
+GTTTAAAATTC 	R32777 	6 	11 	  	n
+GGTTAATGATT 	R32896 	11 	11 	  	n
+GGTTACTGTTT 	R33016 	7 	11 	  	p
+Basis for binding site sequence selection : 106 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02013
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02014 	
+  Matrix: V$HNF3B_Q6 - HNF-3beta 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+17 	17 	15 	49 	N
+0 	2 	1 	98 	T
+38 	3 	59 	3 	R
+0 	0 	0 	103 	T
+0 	0 	1 	102 	T
+1 	0 	11 	91 	T
+44 	0 	50 	9 	R
+5 	57 	7 	34 	Y
+19 	23 	6 	53 	T
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Rat HNF-3beta
+          Rat HNF-3beta
+          Cricetulus sp. HNF-3beta
+          Mammalia HNF-3beta
+          Xenopus laevis HNF-3beta
+          Human HNF-3beta
+          Human HNF-3beta
+          Gallus gallus HNF-3beta
+          Mouse HNF-3beta
+          Mouse HNF-3beta
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+ATGTTTGAA 	R01462 	4 	9 	  	n
+TTATTGACT 	R01464 	4 	9 	  	n
+GTGTTTATT 	R01800 	12 	9 	  	n
+GTGTTTTGA 	R02350 	3 	9 	  	p
+TTGTTTGTT 	R03150 	4 	9 	  	n
+ATATTTGTG 	R03444 	-1 	9 	  	p
+ATATTTGCC 	R04122 	12 	9 	  	p
+CTGTTTGTT 	R04321 	6 	9 	  	n
+CTGTTTGTT 	R04324 	-2 	9 	  	p
+ATGTTTGCA 	R04490 	-1 	9 	  	n
+ATGTTTGCA 	R04490 	-1 	9 	  	n
+GTGTTTTGA 	R04662 	20 	9 	  	p
+TTGTTTTGC 	R04663 	6 	9 	  	n
+CTGTTTGGC 	R05015 	5 	9 	  	n
+TTATTTGCT 	R05017 	10 	9 	  	p
+ATATTTGCT 	R05029 	15 	9 	  	p
+TTGTTTTGC 	R05073 	7 	9 	  	n
+ATATTTGCT 	R05076 	8 	9 	  	n
+CTGTTTACA 	R05078 	8 	9 	  	n
+GTGTTTACC 	R05084 	8 	9 	  	p
+TTGTTTTAG 	R05085 	7 	9 	  	n
+TTGTTTGCA 	R05086 	5 	9 	  	n
+TTGTTTGTT 	R05101 	2 	9 	  	p
+TTGTTTGTT 	R05102 	3 	9 	  	n
+TTGTTTGTT 	R05103 	2 	9 	  	p
+TTATTTATT 	R05104 	2 	9 	  	p
+ATGTTTGTT 	R05105 	2 	9 	  	p
+TTGTTTGCC 	R08137 	28 	9 	  	n
+TTGTTTGCC 	R08139 	28 	9 	  	n
+TTGTTTGCC 	R08139 	28 	9 	  	n
+CTGTTTGTC 	R08890 	8 	9 	  	p
+TTATTGACT 	R08894 	7 	9 	  	n
+ATATTGATT 	R08915 	6 	9 	  	p
+GTCTTTATT 	R08916 	8 	9 	  	n
+CTATTGATT 	R08917 	2 	9 	  	p
+ATATTGACT 	R08919 	2 	9 	  	p
+GTATTGACT 	R08920 	2 	9 	  	p
+TTATTTACT 	R12970 	5 	9 	  	n
+CCATTTATC 	R13252 	10 	9 	  	p
+TTGTTGAAC 	R13253 	9 	9 	  	n
+CTTTTAATG 	R13254 	11 	9 	  	p
+TTGTTGGGC 	R13255 	9 	9 	  	p
+CTGTTTGCT 	R15361 	9 	9 	  	n
+gTGTTTGCT 	R15362 	14 	9 	  	n
+CTGTTTGTT 	R16331 	12 	9 	  	p
+TTGTTTACA 	R16547 	12 	9 	  	n
+TTGTTTACA 	R16569 	8 	9 	  	n
+ATGTTTGCT 	R17148 	8 	9 	  	n
+GTGTTTACT 	R17150 	6 	9 	  	n
+GTGTTTACT 	R17150 	6 	9 	  	n
+TTGTTTATT 	R17151 	10 	9 	  	p
+GTATTTATT 	R17157 	2 	9 	  	p
+TTATTTACT 	R18136 	14 	9 	  	n
+TCATTTATT 	R19240 	1 	9 	  	n
+CTTTTTTCA 	R19454 	10 	9 	  	p
+TTATTTGCT 	R19456 	7 	9 	  	n
+TTATTTgct 	R19458 	18 	9 	  	n
+tTATTTgtt 	R19461 	2 	9 	  	n
+gtgttggta 	R19525 	10 	9 	  	n
+ATGTTTGTT 	R19565 	7 	9 	  	n
+TTATTTACT 	R19675 	10 	9 	  	n
+ATGTGTGCA 	R19711 	5 	9 	  	p
+TTATTTACT 	R19764 	8 	9 	  	n
+TTATTTATG 	R19770 	8 	9 	  	n
+CTATTTAAA 	R19771 	5 	9 	  	p
+CTGTTTTCC 	R20206 	6 	9 	  	p
+CTGTTTGCT 	R20251 	9 	9 	  	p
+ATGTTTACA 	R20796 	13 	9 	  	n
+CTGTTTGCT 	R21088 	9 	9 	  	p
+TTGTTTGCA 	R21113 	26 	9 	  	n
+TTGTTTACT 	R21128 	19 	9 	  	p
+TTATTTGCG 	R21241 	10 	9 	  	n
+GTGTTTACT 	R21353 	9 	9 	  	p
+TTATTTGCC 	R21373 	8 	9 	  	p
+TTATTTGTT 	R21385 	19 	9 	  	p
+TTCTTTATT 	R25364 	9 	9 	  	p
+TTATTTACT 	R25805 	13 	9 	  	n
+TTATTTACT 	R25905 	8 	9 	  	n
+GTGTTTTCT 	R25965 	19 	9 	  	p
+ATGTTTACA 	R26298 	8 	9 	  	n
+CTGTTTGCC 	R26381 	5 	9 	  	p
+GTGTTTGCC 	R26383 	6 	9 	  	p
+TTATTTACA 	R26408 	7 	9 	  	p
+ATGTTTACT 	R26417 	9 	9 	  	p
+ATATTTGCA 	R26419 	19 	9 	  	n
+TTATTTATG 	R26420 	2 	9 	  	n
+CTGTTTATC 	R26421 	5 	9 	  	n
+ATGTTTGCC 	R26428 	11 	9 	  	n
+TTGTTTAAC 	R26429 	9 	9 	  	n
+TTGTTTATT 	R26445 	18 	9 	  	p
+GTTTTGACT 	R26448 	9 	9 	  	p
+TTGTTTATT 	R26568 	17 	9 	  	p
+TTGTTTGTT 	R26569 	11 	9 	  	p
+CTATTTGCC 	R26747 	26 	9 	  	p
+TTATTTGCC 	R26748 	21 	9 	  	p
+TTATTTGCC 	R26749 	21 	9 	  	p
+GGATTTGCA 	R31605 	9 	9 	  	n
+ATATTGATT 	R33785 	8 	9 	  	n
+ATCTTTATA 	R33787 	10 	9 	  	n
+TTGTTTGCT 	R34184 	5 	9 	  	p
+tTATTtgtt 	R34185 	4 	9 	  	p
+TTGTTTTGC 	R34224 	5 	9 	  	n
+TTGTTTGCA 	R34254 	15 	9 	  	n
+Basis for binding site sequence selection : 103 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02014
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02015 	
+  Matrix: V$HNF3G_Q4 - HNF-3gamma 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+1 	0 	0 	15 	T
+2 	0 	14 	0 	G
+3 	0 	0 	14 	T
+0 	0 	0 	17 	T
+0 	0 	0 	17 	T
+6 	0 	10 	1 	R
+0 	7 	0 	10 	Y
+3 	1 	0 	13 	T
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse HNF-3gamma
+          Mouse HNF-3gamma
+          Bovidae sp. Adi Nefas HNF-3gamma
+          Bovidae sp. Adi Nefas HNF-3gamma
+          Mammalia HNF-3gamma
+          Human HNF-3gamma
+          Human HNF-3gamma
+          Rat HNF-3gamma
+          Rat HNF-3gamma
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TGATTATT 	R01464 	8 	8 	  	n
+TGTTTGTT 	R03150 	4 	8 	  	n
+TATTTGCT 	R05029 	16 	8 	  	p
+AGTTTGTT 	R05073 	11 	8 	  	n
+TATTTGCT 	R05076 	8 	8 	  	n
+TGTTTGTT 	R08137 	8 	8 	  	p
+TGTTTGTT 	R08139 	8 	8 	  	p
+TGTTTGTT 	R08139 	8 	8 	  	p
+TGTTTGTC 	R08890 	9 	8 	  	p
+TGATTATT 	R08894 	11 	8 	  	n
+TGATTTTT 	R08915 	10 	8 	  	p
+TGTTTACA 	R16547 	12 	8 	  	n
+TGTTTACA 	R16569 	8 	8 	  	n
+TGTTTGCT 	R20746 	10 	8 	  	n
+TGTTTGCT 	R21088 	10 	8 	  	p
+TGTTTATT 	R25914 	1 	8 	  	p
+TGTTTACA 	R26298 	8 	8 	  	n
+Basis for binding site sequence selection : 17 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02015
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02016 	
+  Matrix: V$HNF4A_Q6_01 - HNF-4alpha 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+13 	6 	92 	9 	G
+27 	12 	52 	29 	N
+19 	42 	33 	30 	N
+4 	112 	1 	9 	C
+114 	2 	0 	11 	A
+107 	3 	15 	2 	A
+104 	1 	19 	3 	A
+0 	0 	126 	1 	G
+9 	4 	54 	60 	K
+5 	46 	16 	59 	Y
+15 	94 	5 	11 	C
+81 	13 	15 	16 	A
+35 	34 	32 	21 	N
+29 	25 	31 	35 	N
+25 	30 	29 	35 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse HNF-4alpha
+          Human HNF-4alpha
+          Rat HNF-4alpha
+          Tamias sibiricus HNF-4
+          Bovidae sp. Adi Nefas HNF4A
+          Mammalia HNF-4alpha
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GGGCTAAGTCCACTG 	R00114 	14 	15 	  	n
+GTCCAAAGGGCGCCT 	R01612 	6 	15 	  	n
+GTCCAAAGGGCGCCT 	R01612 	6 	15 	  	n
+GTCCAAAGGGCGCCT 	R01612 	6 	15 	  	n
+GGGCAAAGGTCACCT 	R02657 	2 	15 	  	n
+GTCCAAAGTTCAGTC 	R03881 	8 	15 	  	p
+AACCAAAGTTCACTT 	R08885 	4 	15 	  	n
+TCTCAAAGTCTAAAA 	R13034 	10 	15 	  	n
+GGCCAAAGGTCATGA 	R13035 	1 	15 	  	n
+GGCCAAAGGTCATGA 	R13035 	1 	15 	  	n
+GTCCAAAGTCCAAAC 	R13037 	3 	15 	  	p
+GACCAAAGTCCAGGT 	R13055 	4 	15 	  	p
+GGACAAAGACCACTT 	R13057 	5 	15 	  	n
+GGGCAAAGGTCACCT 	R13058 	8 	15 	  	n
+GGGCAAAGTTCTCTG 	R13059 	5 	15 	  	n
+GAACTAAGTCCAtag 	R13063 	5 	15 	  	n
+GCTCAAAGTTCAAGT 	R13067 	19 	15 	  	p
+GAACTAAGTCCATAG 	R13070 	1 	15 	  	n
+ACTCAAAGGTCTTGC 	R14648 	4 	15 	  	n
+GGGCAGAGGGCAGGG 	R15841 	20 	15 	  	n
+GGCCAAGGTTCCCAG 	R15842 	6 	15 	  	n
+TCTAAGAGTCCATGG 	R15850 	7 	15 	  	n
+AAGCAAAGTGTAGAG 	R15891 	10 	15 	  	n
+GGGCAAAGGCCATCA 	R15898 	16 	15 	  	p
+GGTCAAAGTCCTTTC 	R15905 	7 	15 	  	p
+GTGCAAAGTTGAGTT 	R15907 	9 	15 	  	p
+GTTCAAAGCTTCCAA 	R15908 	-2 	15 	  	n
+GGGCAAGGTCCAGGT 	R15916 	12 	15 	  	p
+GAGCAAAGGCCAGCT 	R15917 	3 	15 	  	n
+TGCCAAAGGGCAGTA 	R15921 	10 	15 	  	p
+GGACAAAGGTTGTCC 	R15922 	7 	15 	  	n
+GGTTAAAGGTTGCCC 	R15940 	4 	15 	  	n
+GGTCAAGGGTCAGTG 	R15941 	8 	15 	  	p
+GGTCAAAGGCTGATG 	R16048 	4 	15 	  	n
+CACAAAAGTCCAAGA 	R16063 	13 	15 	  	p
+GTACAGAGTCTGtgc 	R18860 	5 	15 	  	n
+GGACAAATTCCAAAA 	R18936 	2 	15 	  	p
+AATTAAAGGTCATAA 	R19198 	11 	15 	  	p
+GTCCAAAGTTCAGTC 	R19255 	8 	15 	  	p
+CCTCACAGCTGTGGT 	R19289 	8 	15 	  	p
+AGCCAAAGTCCATCC 	R19617 	7 	15 	  	p
+GAGCAAAGGnnnnnn 	R19630 	-6 	15 	  	n
+TGCCAAGGGCCACTT 	R20250 	36 	15 	  	n
+GACCAAAGTCCGTCC 	R20585 	14 	15 	  	p
+GTCCAAAGATCAGGG 	R20724 	8 	15 	  	p
+GGGCAGAGGTCAGAG 	R20739 	-3 	15 	  	p
+GGGCAAAGTCCTCCC 	R20743 	9 	15 	  	p
+GTGCAGAGTCCAGGn 	R20866 	2 	15 	  	p
+GGCCAAGGTCAGAGT 	R20937 	6 	15 	  	n
+TGCCAAAGGTCGGGG 	R20940 	11 	15 	  	n
+GGACAGAGGTCAGAA 	R21001 	1 	15 	  	n
+GGGCAAGGGGCATTT 	R21003 	5 	15 	  	p
+GGTCAAGGGTTCAGT 	R21453 	6 	15 	  	n
+CTCCAGGGTCAATAG 	R22735 	11 	15 	  	n
+gggCTAAGtccactg 	R23135 	7 	15 	  	p
+GTACAATGTTCAATA 	R23140 	7 	15 	  	p
+TGACTAAGGTACATG 	R23142 	6 	15 	  	p
+GATTAAAGTTCAATA 	R23143 	7 	15 	  	p
+GGGCATAGGTCAACA 	R23144 	7 	15 	  	p
+CTCAAAAGGTTGGCA 	R23145 	7 	15 	  	p
+GTTCAAAGTGCAGAC 	R23146 	8 	15 	  	n
+GGCCATAGGTCAGTG 	R23474 	3 	15 	  	n
+TCCCTAAGTGACTGG 	R23481 	10 	15 	  	p
+TTCCAAGGTCACCAT 	R23516 	-2 	15 	  	p
+TTTCCAGGACAACAA 	R23518 	-2 	15 	  	p
+GGACAAAGGGCACCC 	R23521 	11 	15 	  	p
+GAACAAAGAGCATTT 	R25367 	6 	15 	  	p
+GGACAAAGGTCACGT 	R25937 	16 	15 	  	n
+CTCCAGAGGTCAAAA 	R25941 	11 	15 	  	n
+GTGCAAGGTTCACTC 	R25967 	16 	15 	  	p
+GACCAAAGGGCAGAC 	R26100 	8 	15 	  	p
+GGGCAAAGTCCACAT 	R26194 	5 	15 	  	n
+GTCCAGAGGGCAAAA 	R26195 	8 	15 	  	n
+GCTTAAAGTTCAAGT 	R26316 	2 	15 	  	p
+AACCAGGGCCAGCCA 	R26418 	4 	15 	  	p
+GATCTGGGGTCCACC 	R26422 	8 	15 	  	n
+ACCCCAGGTCCTCTT 	R26423 	14 	15 	  	p
+GAACTGGGTCAGTTA 	R26424 	8 	15 	  	p
+TGTCAAAGTTCACTA 	R26531 	12 	15 	  	p
+GGCTAAAGGTACATC 	R26635 	10 	15 	  	p
+GGCTAAAGGTACATC 	R26637 	10 	15 	  	p
+GGACAGAGTCCATGG 	R26649 	7 	15 	  	p
+TTCCAAGGTCTTAGT 	R26650 	9 	15 	  	p
+GAGCAAAGGTCTnnn 	R26652 	2 	15 	  	p
+GCATAAGGTTATGGG 	R26750 	10 	15 	  	p
+AGCCAGAGGGCTGAG 	R27979 	8 	15 	  	n
+GGCCAGGGTTGTCAT 	R27980 	12 	15 	  	p
+GGACAAAGGTGCAGG 	R28222 	5 	15 	  	n
+GAGCAAAGTCCAAGG 	R28230 	3 	15 	  	p
+GGTCAaAGGCAAagc 	R28424 	6 	15 	  	p
+GGGCAaAGGTCAgat 	R28425 	6 	15 	  	p
+GTCCAaAGATCAatt 	R28426 	6 	15 	  	p
+GTATAAAGGTCAAGC 	R28428 	7 	15 	  	p
+GAGCAAAGTACAGCA 	R28429 	7 	15 	  	p
+CCTCAaAGTCCAcct 	R28432 	7 	15 	  	p
+GAGCAaAGTCCAggt 	R28433 	7 	15 	  	p
+GGCCAaAGACCCaca 	R28434 	7 	15 	  	p
+ATGCAAAGTCCAAAA 	R28435 	7 	15 	  	p
+GTGCAAAGGTCTAGG 	R28437 	7 	15 	  	p
+GTCCAAAGTTCAGTC 	R28979 	10 	15 	  	p
+GTTCAAAGGCCAGCC 	R28981 	7 	15 	  	p
+GCACAACGTAACCGT 	R28982 	-4 	15 	  	p
+GCTCAAAGTTCACTG 	R28984 	3 	15 	  	n
+GTTCAATGTCCAATT 	R28985 	7 	15 	  	p
+GTCCAAAGTTCAATG 	R30909 	4 	15 	  	n
+AGGCAAAGGCAGAAA 	R31014 	12 	15 	  	p
+AAACAAAGGCAAAAC 	R31015 	5 	15 	  	p
+GAGGACAGGGGCGGG 	R31041 	-5 	15 	  	n
+GGTCAAAGTTTAGTC 	R31207 	11 	15 	  	p
+GTGAAATGAGGTAAT 	R31213 	9 	15 	  	p
+GGGCAAAGGTCACCT 	R31228 	6 	15 	  	p
+GGGCTAAGTTCAGTG 	R31235 	14 	15 	  	p
+GGTCAAAGGTCACCT 	R31295 	3 	15 	  	n
+GATTAAAGATCAGGC 	R31438 	6 	15 	  	p
+GGTCACAGCACAGGC 	R31513 	3 	15 	  	n
+CTCCTAAGTCCCAAG 	R31645 	11 	15 	  	n
+GCCCAAAGGTCTCCA 	R32001 	3 	15 	  	n
+GGGCAAAGTCCTCCC 	R32351 	5 	15 	  	p
+GACCAaAGGACAttt 	R32756 	5 	15 	  	p
+GGTCAaAGTCCTttc 	R32757 	5 	15 	  	p
+GAACTaAGTCCAcag 	R32875 	1 	15 	  	n
+ATCCAAAGGTCAAAA 	R32881 	8 	15 	  	p
+GGTCAAGGGTCGAAC 	R33063 	9 	15 	  	p
+GGGCAAAGTTCAagt 	R34329 	7 	15 	  	p
+TACCAAAGGTCAGGA 	R34330 	7 	15 	  	p
+GAGCAAAGTACATag 	R34331 	4 	15 	  	n
+AGTCAAAGATCACTC 	R34332 	4 	15 	  	n
+Basis for binding site sequence selection : 127 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02016
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02018 	
+  Matrix: V$HTF4_Q2 - HTF4 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	7 	0 	0 	C
+7 	0 	0 	0 	A
+0 	4 	2 	1 	S
+0 	7 	0 	0 	C
+0 	0 	0 	7 	T
+0 	0 	7 	0 	G
+0 	3 	2 	2 	B
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human HTF4
+          Human HTF4gamma
+          Rat HTF4
+          Rat HTF4gamma
+          Rat HTF4beta
+          Rat HTF4alpha
+          Mouse HTF4
+          Mouse HTF4alpha
+          Mouse HTF4gamma
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CACCTGC 	R00242 	6 	7 	  	p
+CAGCTGG 	R00850 	2 	7 	  	p
+CACCTGC 	R03074 	4 	7 	  	n
+CAGCTGG 	R03075 	2 	7 	  	p
+CACCTGT 	R03471 	3 	7 	  	n
+CACCTGC 	R04158 	10 	7 	  	p
+CATCTGT 	R04249 	6 	7 	  	n
+CATCTGT 	R04249 	6 	7 	  	n
+Basis for binding site sequence selection : 8 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02018
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02019 	
+  Matrix: V$LEF1_Q5 - LEF-1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+15 	1 	1 	22 	W
+0 	38 	1 	0 	C
+40 	0 	0 	0 	A
+40 	0 	0 	0 	A
+38 	0 	1 	1 	A
+0 	2 	37 	0 	G
+9 	6 	15 	7 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Danio rerio LEF-1
+          Human LEF-1
+          Human LEF-1B
+          Human LEF1-isoform1
+          Human LEF1-isoform3
+          Human LEF1-isoform4
+          Human LEF1-isoform2
+          Rat LEF-1
+          Rat LEF-1
+          Mouse LEF-1
+          Mouse LEF-1
+          Mouse LEF-1S
+          Gallus gallus LEF-1
+          Gallus gallus LEF-1
+          Mammalia LEF-1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+ACAAAGG 	R03470 	3 	7 	  	p
+ACAAAGC 	R03576 	8 	7 	  	p
+TCAAAGG 	R08631 	8 	7 	  	n
+TCAAAGG 	R08631 	8 	7 	  	n
+ACAAAnn 	R08633 	6 	7 	  	p
+nnAAAGC 	R08634 	6 	7 	  	n
+TCAAACT 	R08649 	-1 	7 	  	n
+TCAAAGC 	R08816 	10 	7 	  	n
+ACAATGG 	R08823 	6 	7 	  	n
+TCAAAGG 	R08824 	7 	7 	  	p
+TCAAGGG 	R13042 	5 	7 	  	p
+TCAAAGt 	R16083 	6 	7 	  	n
+CCAAAGG 	R19738 	20 	7 	  	n
+ACAAAGT 	R25933 	16 	7 	  	n
+ACAAAGa 	R27122 	11 	7 	  	p
+ACAAAGn 	R28281 	-1 	7 	  	n
+ACAAAGT 	R28283 	8 	7 	  	n
+TCAAAGG 	R28447 	15 	7 	  	p
+TCAAAGT 	R28450 	7 	7 	  	p
+ACAAAGG 	R28451 	7 	7 	  	n
+GCAAAGG 	R28453 	8 	7 	  	p
+TCAAAGT 	R29506 	6 	7 	  	n
+TGAAACn 	R30599 	3 	7 	  	p
+ACAAAGG 	R30769 	3 	7 	  	p
+ACAAAGC 	R30795 	10 	7 	  	p
+TCAAAGA 	R30932 	1 	7 	  	n
+ACAAAGA 	R30942 	1 	7 	  	n
+TCAAAGT 	R30943 	1 	7 	  	n
+TCAAAGC 	R30947 	1 	7 	  	n
+TCAAAGA 	R30948 	1 	7 	  	n
+TCAAAGG 	R31106 	2 	7 	  	p
+TCAAAGG 	R31108 	2 	7 	  	p
+ACAAAGA 	R32566 	9 	7 	  	n
+ACAAAGA 	R32567 	10 	7 	  	n
+TCAAAGG 	R32568 	12 	7 	  	p
+TCAAAGC 	R32827 	7 	7 	  	p
+TCAAAGA 	R32828 	7 	7 	  	p
+TCAAAGG 	R33002 	12 	7 	  	n
+ACAAAGG 	R33556 	11 	7 	  	p
+TCAAAGa 	R33858 	9 	7 	  	n
+TCAAAGA 	R33870 	2 	7 	  	n
+Basis for binding site sequence selection : 41 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02019
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02021 	
+  Matrix: V$LXRB_RXRA_Q5 - LXRbeta:RXRalpha 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	5 	6 	8 	B
+5 	0 	13 	1 	G
+11 	1 	6 	1 	R
+1 	1 	16 	1 	G
+1 	0 	17 	1 	G
+0 	0 	0 	19 	T
+0 	15 	0 	4 	C
+19 	0 	0 	0 	A
+1 	9 	5 	3 	S
+2 	1 	6 	9 	K
+7 	1 	10 	0 	R
+3 	5 	8 	2 	N
+4 	5 	1 	8 	N
+1 	2 	10 	5 	K
+3 	4 	8 	3 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human LXR-beta:RXR-alpha
+          Rat LXR-beta:RXR-alpha
+          Rat LXR-beta:RXR-alpha
+          Mammalia LXR-beta:RXR-alpha
+          Mouse LXR-beta:RXR-alpha
+          Human LXR-beta:RXR-alpha
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TTTGGTCACTCAAGT 	R09968 	2 	15 	  	p
+TGGGGTCATTGTCGG 	R09975 	3 	15 	  	p
+CAGGGTCACTGGCGG 	R09980 	3 	15 	  	p
+GGCtatcATTGGAga 	R14234 	6 	15 	  	p
+caGGGTCActggCGG 	R14401 	3 	15 	  	p
+GGAGGTCACCACCGG 	R14402 	4 	15 	  	n
+TGAGGTTACTGCTGG 	R14418 	8 	15 	  	n
+cgaggtcannnnnnn 	R19154 	9 	15 	  	p
+CGGGGTTACTACCGG 	R19168 	3 	15 	  	p
+CAAAGTCACAGTTTA 	R27582 	3 	15 	  	p
+ggGGGTTACTGGAGG 	R28491 	9 	15 	  	p
+TGAGGTCAggagttc 	R28492 	4 	15 	  	n
+GAGGGTCAggacact 	R28493 	4 	15 	  	n
+TGAGGTCAggagttc 	R28494 	19 	15 	  	p
+TGAGGTCAggagttt 	R28495 	4 	15 	  	n
+TGAGGTCAggagttc 	R28496 	4 	15 	  	n
+TGAGGTTACTGCTGG 	R28533 	14 	15 	  	n
+GGACTTCATGGATCA 	R28554 	1 	15 	  	n
+GAAGGTCAAAGAGAC 	R31625 	15 	15 	  	p
+Basis for binding site sequence selection : 19 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02021
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02022 	
+  Matrix: V$MAFK_Q3 - MafK 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	1 	0 	6 	T
+0 	0 	5 	2 	G
+6 	0 	0 	1 	A
+0 	4 	3 	0 	S
+0 	0 	0 	7 	T
+0 	7 	0 	0 	C
+7 	0 	0 	0 	A
+0 	1 	6 	0 	G
+0 	7 	0 	0 	C
+3 	0 	2 	2 	D
+1 	3 	1 	2 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human MafK
+          Human MafK
+          Gallus gallus MafK
+          Gallus gallus MafK
+          Mouse MafK
+          Mouse MafK
+          Rat MafK
+          Rat MafK
+          Coturnix japonica MAFK
+          Mammalia MafK
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TGACTCAGCAC 	R01249 	2 	11 	  	p
+TGACTCAGCAC 	R01249 	2 	11 	  	p
+TGAGTCAGCTC 	R01946 	9 	11 	  	n
+TTTGTCACCAT 	R02339 	52 	11 	  	n
+TGACTCAGCTG 	R11185 	11 	11 	  	p
+TGACTCAGCAC 	R11187 	-1 	11 	  	n
+TGACTCAGCGA 	R13440 	8 	11 	  	n
+CTAGTCAGCGT 	R28026 	14 	11 	  	n
+Basis for binding site sequence selection : 8 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02022
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02023 	
+  Matrix: V$MAZ_Q6_01 - MAZ 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+4 	5 	14 	5 	N
+5 	0 	15 	8 	K
+5 	7 	15 	1 	G
+0 	0 	27 	1 	G
+0 	0 	28 	0 	G
+15 	3 	4 	6 	A
+1 	0 	26 	1 	G
+2 	2 	23 	1 	G
+8 	0 	20 	0 	G
+9 	0 	19 	0 	G
+15 	2 	8 	3 	R
+0 	0 	25 	2 	G
+2 	3 	18 	4 	G
+9 	1 	15 	2 	R
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse MAZ
+          Mouse MAZ
+          Human MAZ
+          Human MAZ
+          Human SAF-2
+          Human MAZi
+          Oryctolagus cuniculus SAF1
+          Oryctolagus cuniculus SAF-1
+          Rat MAZ
+          Canis lupus familiaris SAF1
+          Mesocricetus auratus MAZ
+          Mammalia MAZ
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CGGGGAGGGAATTT 	R02306 	-2 	14 	  	p
+GAGGGTGGGGAGGG 	R04621 	19 	14 	  	n
+AAGGGAGGGGAGGG 	R04622 	-1 	14 	  	p
+GGGGGCAGAGAGGA 	R04623 	1 	14 	  	p
+AGGGGGGGGGTGCT 	R04624 	7 	14 	  	p
+GGGGGAGGGAAGAA 	R04625 	1 	14 	  	n
+TTCGGCGAAGGGTA 	R04627 	47 	14 	  	n
+TTAGGAGGGGAGGG 	R04628 	15 	14 	  	p
+AAAGGTGTGAGGGG 	R04630 	11 	14 	  	p
+GTGGGAGGGAGGGA 	R04976 	7 	14 	  	p
+AACGGAGGGAGGGA 	R08503 	-4 	14 	  	p
+CGGGGGGCGGAGCC 	R16663 	17 	14 	  	n
+ctcgGCGAGGCnnn 	R21125 	26 	14 	  	p
+tGCGGAGGGgtgtg 	R21126 	17 	14 	  	n
+GGCGGTGGGAGGGG 	R21300 	9 	14 	  	p
+GGAGGTTGAGCTGG 	R21314 	-1 	14 	  	p
+GGTTGAGGGGAGGG 	R21315 	4 	14 	  	p
+GGGGGAGGGAAGAG 	R21362 	6 	14 	  	p
+GGCGGGGGGGAGGG 	R21411 	6 	14 	  	p
+TGGGGGGGGGAGGG 	R27217 	5 	14 	  	n
+GGCGGAGGAGAGGG 	R28182 	33 	14 	  	p
+caaGGAGGGGTGGG 	R28300 	12 	14 	  	p
+GTGGGTGGAGAGGA 	R28312 	5 	14 	  	n
+TGAGGAGGAGGGCA 	R29633 	13 	14 	  	n
+GGGGGAGGGGAGGG 	R30354 	10 	14 	  	p
+GTGGGAGGGAGGGA 	R30357 	7 	14 	  	p
+CTGGGAGCAAGGTG 	R32628 	13 	14 	  	p
+GTGGGTGGAGAGGA 	R34147 	5 	14 	  	n
+Basis for binding site sequence selection : 28 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02023
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02024 	
+  Matrix: V$MEF2A_Q6 - mef2A 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	0 	0 	22 	T
+20 	0 	0 	2 	A
+2 	0 	0 	20 	T
+3 	0 	0 	19 	T
+0 	0 	0 	22 	T
+9 	0 	0 	13 	W
+7 	1 	2 	11 	W
+15 	3 	1 	2 	A
+6 	3 	9 	3 	N
+7 	9 	2 	3 	M
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Rat mef2a
+          Rat mef2a
+          Human mef2a
+          Human RSRFC4
+          Human aMEF-2
+          Human RSRFC9
+          Human MEF2A-isoform1
+          Human MEF2A-xbb5
+          Mouse mef2a
+          Mouse mef2a-isoform2
+          Mouse mef2a-isoform1
+          Mouse mef2a-isoform3
+          Mammalia mef2a
+          Mammalia MEF-2A
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TATTTTTAGA 	R00244 	16 	10 	  	n
+TATTTTTAAC 	R03584 	6 	10 	  	p
+TAATTAACCC 	R03585 	8 	10 	  	p
+TATTTTAAAC 	R03586 	4 	10 	  	n
+TATTTTTAAT 	R03587 	4 	10 	  	n
+TTTTTTAGTC 	R03588 	3 	10 	  	n
+TATATATACT 	R03589 	6 	10 	  	p
+TATTTTAAGC 	R04212 	2 	10 	  	p
+TATTTTAAGC 	R04212 	2 	10 	  	p
+TATTTATAGA 	R09144 	10 	10 	  	n
+TATATTAATA 	R09231 	8 	10 	  	n
+TATTTTTAGA 	R09465 	7 	10 	  	n
+TATTTTTAGC 	R15855 	11 	10 	  	p
+TATTTATAGC 	R19550 	10 	10 	  	p
+TATTTAGTCT 	R20938 	7 	10 	  	p
+TTTTTAnnnn 	R27150 	-4 	10 	  	n
+TATTTTAAAA 	R27159 	13 	10 	  	p
+TAATTTATAA 	R27161 	2 	10 	  	p
+TATTTTTAGG 	R29837 	6 	10 	  	p
+TATTTATAGA 	R30392 	9 	10 	  	p
+TATTTTTAAC 	R31138 	9 	10 	  	p
+TATTTAGCTG 	R32856 	13 	10 	  	n
+TATATACCGC 	R33495 	8 	10 	  	p
+Basis for binding site sequence selection : 23 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02024
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02025 	
+  Matrix: V$MEF2C_Q4 - MEF-2C 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+2 	1 	0 	17 	T
+20 	0 	0 	0 	A
+1 	0 	0 	19 	T
+3 	0 	0 	17 	T
+0 	0 	0 	20 	T
+10 	0 	0 	10 	W
+5 	2 	3 	10 	T
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human MEF-2C
+          Human MEF-2C/delta32
+          Human MEF-2C
+          Human MEF-2C/delta8,32
+          Human MEF-2C/delta8
+          Mouse MEF2C
+          Mouse MEF2C isoform 1
+          Mouse MEF-2C/delta8
+          Mouse MEF2C isoform 4
+          Mouse MEF2C isoform 5
+          Mouse MEF2C isoform 3
+          Rat MEF-2C
+          Mammalia MEF-2C
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TATTTTT 	R00244 	19 	7 	  	n
+TAATTAA 	R03585 	8 	7 	  	p
+TATTTAT 	R09143 	3 	7 	  	n
+TATTTAC 	R09226 	8 	7 	  	n
+TATATTA 	R09231 	11 	7 	  	n
+TATATAA 	R09387 	8 	7 	  	p
+TATTTTT 	R09465 	10 	7 	  	n
+TATTTTT 	R15855 	11 	7 	  	p
+TATTTTT 	R19234 	7 	7 	  	p
+TATTTTT 	R19560 	16 	7 	  	n
+TATTTAG 	R19628 	10 	7 	  	p
+TATTTTA 	R24920 	13 	7 	  	p
+AATTTAG 	R26333 	11 	7 	  	n
+TATTTTA 	R27159 	13 	7 	  	p
+AATTTAT 	R27161 	3 	7 	  	p
+TATTTTT 	R31138 	9 	7 	  	p
+CATTTAT 	R31580 	2 	7 	  	p
+TATTTAG 	R32856 	16 	7 	  	n
+TATATAC 	R33495 	8 	7 	  	p
+TATTTTT 	R33591 	3 	7 	  	n
+Basis for binding site sequence selection : 20 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02025
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02026 	
+  Matrix: V$MEF2D_Q4 - MEF-2D 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+5 	0 	0 	5 	W
+10 	0 	0 	0 	A
+8 	0 	0 	2 	A
+10 	0 	0 	0 	A
+0 	0 	0 	10 	T
+10 	0 	0 	0 	A
+3 	0 	5 	2 	R
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human mef2d
+          Human mef2d-isoform2
+          Human mef2d-isoform3
+          Human mef2d-isoform1
+          Human mef2a-isoform6
+          Human mef2d-isoform4
+          Human mef2d-isoform5
+          Mouse mef2d
+          Mouse MEF-2DA'0
+          Mouse MEF-2DAB
+          Rat mef2d
+          Rat MEF-2DA0
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TAAATAT 	R09229 	3 	7 	  	n
+TAAATAG 	R09230 	1 	7 	  	n
+AATATAA 	R09231 	12 	7 	  	p
+AAAATAG 	R09235 	5 	7 	  	p
+TATATAA 	R09387 	8 	7 	  	p
+AAAATAA 	R09465 	11 	7 	  	p
+AAAATAG 	R29906 	18 	7 	  	p
+AAAATAG 	R31138 	8 	7 	  	n
+TAAATAG 	R31690 	34 	7 	  	p
+TAAATAT 	R32856 	17 	7 	  	p
+Basis for binding site sequence selection : 10 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02026
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02027 	
+  Matrix: V$PARP_Q4 - PARP 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+1 	0 	0 	11 	T
+0 	0 	0 	12 	T
+0 	3 	1 	8 	T
+0 	10 	1 	1 	C
+1 	5 	0 	6 	Y
+3 	3 	2 	4 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human PARP
+          Human PARP
+          Xenopus laevis PARP
+          Mouse PARP
+          Mouse PARP-long
+          Coturnix japonica PARP
+          Mammalia PARP
+          Rat PARP
+          Rat PARP
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TTTCCA 	R08616 	13 	6 	  	p
+TTTCTC 	R23131 	21 	6 	  	p
+tTTCCC 	R24518 	9 	6 	  	p
+TTTCTT 	R25780 	3 	6 	  	n
+TTCCAG 	R25795 	9 	6 	  	n
+ATTCTT 	R25880 	4 	6 	  	p
+TTCCCA 	R28158 	14 	6 	  	p
+TTTGTT 	R29197 	9 	6 	  	p
+TTGCTG 	R29551 	-5 	6 	  	n
+TTCCCA 	R32829 	11 	6 	  	p
+TTTCCC 	R32971 	19 	6 	  	p
+TTTTTT 	R33263 	16 	6 	  	n
+Basis for binding site sequence selection : 12 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02027
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02028 	
+  Matrix: V$PBX1_Q3 - Pbx1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+7 	1 	2 	3 	A
+1 	2 	1 	9 	T
+3 	10 	0 	0 	C
+11 	2 	0 	0 	A
+11 	2 	0 	0 	A
+0 	0 	0 	13 	T
+0 	12 	0 	1 	C
+9 	0 	0 	4 	A
+6 	3 	2 	2 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Pbx1
+          Human Pbx1a
+          Human Pbx1b
+          Mouse Pbx1
+          Mouse Pbx1b
+          Mouse Pbx1a
+          Rat PBX1
+          Xenopus laevis Pbx1b
+          Xenopus laevis Pbx1b
+          Mammalia Pbx1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GCCACTCTG 	R04429 	2 	9 	  	p
+GTCACTCTC 	R08497 	6 	9 	  	n
+ATCCATCAC 	R09699 	4 	9 	  	n
+ATCAATCTT 	R12755 	18 	9 	  	n
+ATCAATCAG 	R14719 	25 	9 	  	p
+ATCAATCAA 	R14768 	6 	9 	  	n
+TTCAATCTC 	R14770 	20 	9 	  	n
+ATAAATCAA 	R19539 	9 	9 	  	p
+ttcAATTAA 	R20786 	9 	9 	  	n
+TCACATCAA 	R23928 	-4 	9 	  	p
+ATCAATCAA 	R23929 	4 	9 	  	n
+CACAATCAA 	R25317 	6 	9 	  	n
+AGAAATCAT 	R33040 	22 	9 	  	p
+Basis for binding site sequence selection : 13 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02028
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02030 	
+  Matrix: V$SATB1_Q5 - SATB1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+4 	0 	0 	3 	W
+7 	0 	0 	0 	A
+0 	0 	0 	7 	T
+0 	0 	0 	7 	T
+0 	0 	0 	7 	T
+2 	2 	0 	3 	H
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse SATB1
+          Human SATB1
+          Chlorocebus aethiops SATB1
+          Mammalia SATB1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+AATTTC 	R03635 	6 	6 	  	p
+AATTTT 	R21011 	25 	6 	  	p
+TATTTC 	R23361 	26 	6 	  	p
+AATTTT 	R23365 	31 	6 	  	p
+AATTTT 	R32403 	7 	6 	  	p
+TATTTA 	R32512 	82 	6 	  	p
+TATTTA 	R32513 	82 	6 	  	p
+Basis for binding site sequence selection : 7 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02030
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02031 	
+  Matrix: V$SPI1_Q5 - SPI1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+97 	10 	18 	0 	A
+7 	0 	118 	0 	G
+0 	0 	125 	0 	G
+125 	0 	0 	0 	A
+119 	1 	4 	1 	A
+24 	19 	76 	5 	G
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Rat SPI1
+          Rat SPI1
+          Human SPI1
+          Human SPI1
+          Mouse SPI1
+          Mouse SPI1-xbb1
+          Mouse SPI1
+          Gallus gallus SPI1
+          Mammalia SPI1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+AGGAAC 	R01068 	15 	6 	  	n
+CGGAAG 	R01155 	7 	6 	  	n
+AGGAAG 	R01711 	6 	6 	  	n
+CGGAAG 	R02386 	7 	6 	  	p
+GGGAAG 	R02685 	11 	6 	  	p
+AGGAAC 	R02982 	6 	6 	  	p
+AGGAAG 	R03475 	10 	6 	  	p
+AGGAAC 	R03675 	-1 	6 	  	n
+AGGAAG 	R04263 	17 	6 	  	p
+CAGAAG 	R04274 	2 	6 	  	n
+AGGAAG 	R04413 	-1 	6 	  	n
+AGGAGG 	R04722 	2 	6 	  	n
+AGGAAA 	R08101 	12 	6 	  	n
+AGGAAG 	R08122 	5 	6 	  	p
+agGAGA 	R08195 	12 	6 	  	n
+AGGAAG 	R08196 	6 	6 	  	p
+GGGAAA 	R13565 	5 	6 	  	p
+AGGAAg 	R13568 	6 	6 	  	n
+AGGAAg 	R13569 	12 	6 	  	p
+AGGAAg 	R13570 	12 	6 	  	p
+AGGAAc 	R13573 	12 	6 	  	p
+GGGAAG 	R14192 	9 	6 	  	p
+GGGAAG 	R14192 	9 	6 	  	p
+AGGAAC 	R14490 	10 	6 	  	p
+AGGAAA 	R14621 	9 	6 	  	n
+GGGAAG 	R17016 	5 	6 	  	p
+AGGAAG 	R18615 	13 	6 	  	n
+CGGAAG 	R19547 	14 	6 	  	n
+AGGAAA 	R20291 	10 	6 	  	n
+AGGAAC 	R20410 	5 	6 	  	p
+AGGAAG 	R20411 	16 	6 	  	n
+AGGAAG 	R20444 	10 	6 	  	n
+AGGAAG 	R20519 	7 	6 	  	p
+AGGAAG 	R20560 	12 	6 	  	p
+AGGATG 	R21052 	22 	6 	  	n
+GGGAAC 	R21054 	11 	6 	  	p
+AGGAAG 	R21097 	10 	6 	  	n
+AGGAAA 	R21108 	15 	6 	  	n
+GGGAAG 	R21120 	13 	6 	  	p
+AGGAAC 	R21272 	32 	6 	  	p
+AGGAAT 	R21505 	139 	6 	  	p
+GAGAAG 	R22225 	7 	6 	  	n
+GAGAAG 	R22226 	7 	6 	  	p
+AGGAAG 	R22307 	17 	6 	  	p
+AGGAAG 	R22316 	14 	6 	  	p
+AGGAAA 	R22548 	8 	6 	  	p
+AGGACT 	R24243 	6 	6 	  	p
+AGGAAG 	R24244 	9 	6 	  	n
+AGGAAG 	R24268 	7 	6 	  	n
+AGGAAC 	R24517 	7 	6 	  	p
+aGGAAc 	R24616 	2 	6 	  	p
+AGGAAG 	R24622 	5 	6 	  	p
+AGGAAC 	R25066 	6 	6 	  	p
+CAGAAG 	R25067 	2 	6 	  	p
+AGGAGA 	R25119 	7 	6 	  	n
+AGGAAG 	R25146 	16 	6 	  	n
+AGGAAG 	R25219 	17 	6 	  	p
+AGGAAA 	R25472 	6 	6 	  	n
+aGGAAa 	R25476 	16 	6 	  	p
+AGGAAG 	R25665 	12 	6 	  	p
+CGGAAG 	R25824 	11 	6 	  	n
+AGGAAG 	R25865 	6 	6 	  	p
+AGGAAG 	R25942 	5 	6 	  	n
+AGGAAG 	R25964 	13 	6 	  	p
+AGGAAG 	R25989 	14 	6 	  	n
+aGGAAG 	R26033 	17 	6 	  	n
+GGGAAG 	R26410 	18 	6 	  	p
+GGGAAG 	R26475 	14 	6 	  	p
+GGGAAG 	R26476 	8 	6 	  	n
+AGGAAA 	R26699 	11 	6 	  	n
+GGGAAG 	R26818 	12 	6 	  	p
+AGGAAA 	R27164 	13 	6 	  	p
+AGGAAG 	R27165 	14 	6 	  	p
+AGGAAG 	R27437 	9 	6 	  	p
+GGGAAC 	R27438 	10 	6 	  	n
+AGGAAc 	R27475 	8 	6 	  	p
+AGGAAC 	R27476 	8 	6 	  	p
+AGGAAG 	R27495 	12 	6 	  	n
+AGGAAA 	R27496 	10 	6 	  	p
+AGGAAG 	R27497 	10 	6 	  	n
+AGGAAG 	R27500 	11 	6 	  	p
+AGGAAA 	R27501 	10 	6 	  	p
+aGGAAg 	R28115 	11 	6 	  	n
+aGGAAg 	R28116 	9 	6 	  	n
+AGGAAg 	R28120 	6 	6 	  	n
+CGGAAA 	R28152 	9 	6 	  	n
+GGGAAA 	R28154 	9 	6 	  	p
+AGGAAG 	R28247 	7 	6 	  	p
+AGGAAG 	R28349 	11 	6 	  	n
+AGGAAC 	R28507 	13 	6 	  	n
+AGGAAC 	R28557 	9 	6 	  	n
+AGGAAG 	R28560 	9 	6 	  	n
+AGGAAA 	R28651 	14 	6 	  	n
+AGGAAC 	R29048 	11 	6 	  	p
+AGGAAA 	R29512 	18 	6 	  	p
+AGGAAG 	R29766 	6 	6 	  	p
+CGGAAG 	R29791 	9 	6 	  	n
+GAGAAG 	R31077 	15 	6 	  	p
+AAGAAG 	R31083 	20 	6 	  	n
+AGGAAG 	R31181 	11 	6 	  	p
+AGGAAG 	R32329 	12 	6 	  	n
+AGGAAG 	R32550 	7 	6 	  	n
+AGGAAT 	R32702 	6 	6 	  	n
+AGGAAA 	R32703 	8 	6 	  	p
+AGGAAG 	R32714 	5 	6 	  	n
+CGGAAG 	R32715 	5 	6 	  	p
+AGGAAA 	R32804 	10 	6 	  	n
+AGGAAA 	R32810 	13 	6 	  	n
+AGGAAG 	R32811 	10 	6 	  	n
+AGGAAA 	R32812 	9 	6 	  	n
+CAGAAG 	R32813 	14 	6 	  	p
+AGGAAA 	R33102 	11 	6 	  	p
+GGGAAT 	R33521 	48 	6 	  	p
+GGGAGG 	R33594 	8 	6 	  	n
+AGGAAG 	R33595 	11 	6 	  	p
+AGGAAn 	R33599 	4 	6 	  	p
+AGGAAG 	R33634 	18 	6 	  	p
+AGGAAC 	R33695 	11 	6 	  	p
+AGGAAa 	R33822 	14 	6 	  	n
+AGGAAG 	R34243 	13 	6 	  	p
+AGGAAG 	R34279 	2 	6 	  	n
+GGGAAG 	R34280 	1 	6 	  	n
+AGGAAG 	R34282 	1 	6 	  	n
+AGGAAC 	R34283 	1 	6 	  	n
+AGGAAG 	R34285 	8 	6 	  	n
+AGGAAT 	R34286 	2 	6 	  	p
+Basis for binding site sequence selection : 126 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02031
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02032 	
+  Matrix: F$SWI4_Q6 - SWI4 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	2 	0 	1 	Y
+0 	3 	0 	0 	C
+3 	0 	0 	0 	A
+0 	3 	0 	0 	C
+0 	0 	3 	0 	G
+3 	0 	0 	0 	A
+3 	0 	0 	0 	A
+3 	0 	0 	0 	A
+2 	1 	0 	0 	M
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Saccharomyces cerevisiae SWI4
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CCACGAAAA 	R00720 	4 	9 	  	p
+TCGCGAAAT 	R03735 	-1 	9 	  	p
+ACACGAAAT 	R03735 	-1 	9 	  	p
+TCACGAAAC 	R03735 	-1 	9 	  	p
+CCACGAAAA 	R03752 	-1 	9 	  	p
+Basis for binding site sequence selection : 5 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02032
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02033 	
+  Matrix: V$TCF4_Q5_01 - TCF-4 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+12 	0 	1 	4 	A
+3 	1 	3 	10 	T
+0 	16 	0 	1 	C
+17 	0 	0 	0 	A
+17 	0 	0 	0 	A
+17 	0 	0 	0 	A
+0 	0 	17 	0 	G
+4 	5 	6 	2 	N
+5 	4 	5 	1 	N
+4 	6 	2 	2 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human TCF-4
+          Canis lupus familiaris TCF4
+          Xenopus laevis TCF-4
+          Rat TCF 4
+          Mouse TCF-4
+          Mammalia TCF-4
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+ATCAAAGcnn 	R08584 	-2 	10 	  	n
+ATCAAAGgnn 	R08585 	-2 	10 	  	n
+GCTAAAGGGA 	R08639 	5 	10 	  	n
+TTCAAAGGAT 	R08640 	5 	10 	  	n
+TTCAAAGCAC 	R08647 	1 	10 	  	p
+ATCAAAGGCG 	R08648 	-2 	10 	  	n
+ATCAAAGAGC 	R27837 	4 	10 	  	n
+ATCAAAGACC 	R27839 	10 	10 	  	p
+ATCAAAGGGA 	R28268 	4 	10 	  	n
+AGCAAAGAAC 	R28269 	3 	10 	  	n
+AGCAAAGGGG 	R28453 	7 	10 	  	p
+TACAAAGCCC 	R30795 	9 	10 	  	p
+TTCAAAGccn 	R31411 	-1 	10 	  	n
+AACAAAGAAA 	R31908 	10 	10 	  	p
+AACAAAGCta 	R32369 	7 	10 	  	n
+AGCAAAGtgt 	R32374 	10 	10 	  	p
+ATCAAAGTAC 	R32765 	9 	10 	  	n
+Basis for binding site sequence selection : 17 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02033
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02034 	
+  Matrix: V$TTF1_Q5 - TTF-1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+21 	15 	26 	9 	N
+26 	11 	20 	14 	N
+16 	19 	29 	7 	N
+5 	48 	3 	16 	C
+28 	24 	8 	13 	N
+0 	73 	0 	0 	C
+0 	0 	0 	73 	T
+2 	10 	8 	53 	T
+11 	15 	47 	0 	G
+41 	10 	15 	7 	A
+10 	22 	34 	5 	S
+21 	11 	18 	21 	N
+14 	13 	33 	11 	N
+19 	24 	17 	11 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human TTF-1
+          Human TTF-1-isoform2
+          Human TTF-1-isoform1
+          Mouse TTF-1
+          Mouse TTF-1
+          Gallus gallus TTF-1
+          Gallus gallus TTF-1
+          Rat TTF-1
+          Rat TTF-1
+          Canis lupus familiaris TFF-1
+          Canis lupus familiaris TFF-1
+          Bovidae sp. Adi Nefas TFF-1
+          Papio hamadryas TFF-1
+          Mammalia TTF-1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GAATACTTGAGTAA 	R01879 	2 	14 	  	n
+CTCTACTTGAGTCT 	R01880 	3 	14 	  	n
+GAACACTTGACTGG 	R01882 	2 	14 	  	n
+TCACACTTCATAGA 	R02471 	6 	14 	  	p
+TGCCACTCATAGAA 	R04318 	-2 	14 	  	n
+AAGCACTTGGCAGA 	R04319 	6 	14 	  	p
+AAGCACTTGGCAGA 	R04320 	2 	14 	  	p
+CTGTGCTTGAGTGG 	R04322 	-4 	14 	  	p
+GAGCCCTCCAGGTG 	R04657 	3 	14 	  	n
+GTCATCTTGTGATG 	R05014 	4 	14 	  	p
+GAGCCCTCCAGGTG 	R12974 	7 	14 	  	n
+TTGTCCTGGAGAGC 	R12975 	17 	14 	  	n
+GGCCACTTCACTTT 	R12977 	5 	14 	  	n
+GAGCCCTCCAGGTG 	R12979 	3 	14 	  	n
+GGGCTCTTCAGAGC 	R12981 	11 	14 	  	p
+CAGGGCTTGCCCTG 	R13138 	1 	14 	  	p
+ATGCTCTTGAGAGC 	R13139 	13 	14 	  	n
+CTACTCTTGAGCAA 	R13140 	5 	14 	  	n
+AGGCCCTTGGCCTA 	R13142 	1 	14 	  	n
+AGGGCCTTGGGGGC 	R13143 	8 	14 	  	p
+AGAACCTTGAGGGT 	R13152 	6 	14 	  	n
+GAGCACTTAGAACC 	R13153 	-3 	14 	  	n
+GAGCACTTAACAAG 	R13154 	14 	14 	  	n
+GGTTCCTTCAGAGC 	R13155 	8 	14 	  	n
+CCCTACTTGAGTCA 	R13174 	8 	14 	  	n
+ATCCTCTGACCTGA 	R13188 	10 	14 	  	p
+GGACCCTTGAGGGG 	R13190 	6 	14 	  	n
+GGACCCTTGAGGGG 	R13192 	6 	14 	  	n
+GAACACTTAGGACC 	R13193 	-2 	14 	  	n
+CTCTACTACAAAAC 	R13194 	3 	14 	  	n
+GCTTCCTGCCCGGC 	R13198 	-1 	14 	  	p
+TACCTCTTGTGGGC 	R13201 	3 	14 	  	p
+nnnnCCTGAAnnnn 	R13202 	-4 	14 	  	p
+GAATACTCCACAAG 	R13203 	4 	14 	  	p
+CCTCTCTTGGAAGT 	R13204 	-4 	14 	  	n
+CAGTGCTTGACTTC 	R13205 	-4 	14 	  	p
+GAGCACTCCAGGTT 	R13206 	-3 	14 	  	n
+AGACCCTTCAGGAA 	R13207 	-2 	14 	  	n
+TACCTCTTGTGGGC 	R13210 	3 	14 	  	p
+AAACACTGAGGTCA 	R13230 	-3 	14 	  	p
+GGTCACTTGGTTTC 	R13231 	8 	14 	  	n
+CAGGGCTTGGTGGT 	R13249 	7 	14 	  	n
+GCTCGCTTGCCGGG 	R13250 	6 	14 	  	p
+CCGCACTTGTCCGC 	R13251 	6 	14 	  	n
+TTGTCCTTGAACAT 	R14696 	4 	14 	  	p
+AGAAACTTGAATAC 	R16087 	3 	14 	  	n
+ATACCCTTGACAGC 	R16089 	2 	14 	  	n
+CGTCGCTGGAGTGC 	R16563 	12 	14 	  	n
+GAGCCCTCGAGCGC 	R16564 	13 	14 	  	p
+GGGCACTCCGGCGA 	R16579 	10 	14 	  	p
+GGGCCCTCGAGCGC 	R16580 	13 	14 	  	p
+GGGCACTCGTGTGG 	R21192 	4 	14 	  	n
+CCTCACTGAGGACC 	R21193 	3 	14 	  	p
+CCCCACTAACCCCC 	R21366 	2 	14 	  	n
+GTCCCCTTCCTGCC 	R21367 	2 	14 	  	n
+AACTACTTGAGACT 	R22642 	9 	14 	  	p
+AAACCCTTCAGAAT 	R22643 	7 	14 	  	p
+AGGCACTTGTCTGG 	R28628 	8 	14 	  	n
+ATGCCCTTGAAGCA 	R28629 	9 	14 	  	p
+GAACACTTGACTGG 	R28631 	7 	14 	  	n
+AGGCCCTTGGCCTA 	R29600 	1 	14 	  	n
+TACCTCTTGCATAA 	R29761 	9 	14 	  	n
+TACCACTTGACTCA 	R29762 	8 	14 	  	n
+nnnCTCTTACnnnn 	R31311 	-4 	14 	  	n
+ATACCCTTGACAGC 	R32430 	2 	14 	  	n
+AGCTTCTTGCAGAA 	R32432 	14 	14 	  	n
+CCGCCCTTGAGTGT 	R32515 	3 	14 	  	n
+ACGACCTTGAATGG 	R32520 	4 	14 	  	n
+TCCATCTTGGCTAA 	R32524 	3 	14 	  	p
+GGCTGCTTGGTTCA 	R32525 	3 	14 	  	p
+AACTACTTGAGACT 	R33707 	17 	14 	  	p
+AACTGCTTGACAGC 	R34176 	-1 	14 	  	n
+CTGCTCTGACGCAG 	R34177 	6 	14 	  	p
+Basis for binding site sequence selection : 73 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02034
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02036 	
+  Matrix: V$WT1_Q6_01 - WT1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	31 	0 	0 	C
+2 	0 	22 	7 	G
+0 	31 	0 	0 	C
+0 	31 	0 	0 	C
+0 	31 	0 	0 	C
+4 	22 	3 	2 	C
+1 	26 	3 	1 	C
+6 	7 	14 	4 	N
+3 	20 	6 	2 	C
+7 	12 	10 	2 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human WT1
+          Human WT1-del2
+          Human WT1 -KTS
+          Human WT1 I-del2
+          Human WT1
+          Human WT1 I -KTS
+          Human WT1 I
+          Mouse WT1
+          Mouse WT1-isoform4
+          Mouse WT1-isoform2
+          Mouse WT1-isoform3
+          Mouse WT1-isoform1
+          Rat WT1
+          Rat WT1-isoform1
+          Rat WT1-isoform2
+          Rat WT1-isoform4
+          Rat WT1-isoform3
+          Mammalia WT1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CGCCCCCGCG 	R01615 	7 	10 	  	p
+CGCCCCCGCG 	R02313 	1 	10 	  	p
+CGCCCCCGCA 	R02314 	-1 	10 	  	n
+CGCCCCCGCC 	R02315 	1 	10 	  	p
+CGCCCCCCCC 	R04700 	20 	10 	  	n
+CTCCCGGCGG 	R04733 	18 	10 	  	p
+CGCCCCCACC 	R04858 	-1 	10 	  	n
+CGCCCCCGCG 	R04861 	-1 	10 	  	n
+CGCCCTCTCC 	R05048 	9 	10 	  	p
+CTCCCGCCCA 	R16085 	26 	10 	  	p
+CGCCCCGGCG 	R24925 	10 	10 	  	n
+CACCCGGACC 	R28704 	7 	10 	  	p
+CGCCCCCGCg 	R30144 	2 	10 	  	p
+CGCCCCCGGc 	R30149 	5 	10 	  	p
+CGCCCCCGGA 	R30306 	11 	10 	  	n
+CGCCCCTCGG 	R31059 	5 	10 	  	n
+CGCCCACCCT 	R31062 	9 	10 	  	n
+CGCCCCCAGC 	R31065 	12 	10 	  	p
+CGCCCCCGGA 	R31231 	8 	10 	  	n
+CGCCCCCGCC 	R31233 	7 	10 	  	n
+CACCCACTCA 	R32507 	8 	10 	  	n
+CTCCCCACAC 	R32508 	8 	10 	  	n
+CGCCCACTAA 	R32514 	6 	10 	  	n
+CGCCCCCCCT 	R32519 	9 	10 	  	p
+CGCCCCCGCG 	R32522 	8 	10 	  	n
+CTCCCACATG 	R32530 	7 	10 	  	p
+CTCCCCCACC 	R32531 	4 	10 	  	p
+CTCCCTCTTC 	R33247 	4 	10 	  	n
+CTCCCCCGCA 	R33938 	14 	10 	  	n
+CGCCCCCGAG 	R33946 	11 	10 	  	n
+CGCCCCCACC 	R33947 	8 	10 	  	n
+Basis for binding site sequence selection : 31 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02036
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502968. New matrix entries from compiled binding sites. Book 20113 001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02037 	
+  Matrix: V$PET1_01 - Pet-1 FEV
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+56 	9 	22 	13 	A
+19 	64 	11 	6 	C
+9 	88 	2 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+98 	0 	1 	1 	A
+66 	4 	1 	29 	A
+36 	6 	56 	3 	R
+4 	33 	6 	57 	Y
+30 	17 	36 	17 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse Pet-1
+          Mouse Pet-1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02037
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02038 	
+  Matrix: V$FLI1_01 - Fli-1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+58 	7 	24 	11 	A
+15 	68 	12 	5 	C
+13 	84 	2 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+97 	0 	1 	2 	A
+77 	3 	1 	20 	A
+35 	5 	57 	2 	R
+5 	38 	7 	50 	Y
+31 	17 	37 	15 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse Fli-1
+          Mouse Fli-1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02038
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02039 	
+  Matrix: V$GABPA_01 - GABPalpha 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+56 	9 	27 	8 	A
+14 	65 	18 	3 	C
+8 	91 	1 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+98 	0 	1 	1 	A
+74 	4 	1 	22 	A
+42 	6 	50 	2 	R
+5 	39 	7 	49 	Y
+29 	22 	33 	17 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse GABP-alpha
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02039
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02040 	
+  Matrix: V$PDEF_01 - PDEF SPDEF
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+36 	37 	18 	9 	N
+12 	76 	12 	1 	C
+23 	75 	2 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+99 	0 	1 	0 	A
+11 	15 	2 	72 	T
+30 	15 	47 	8 	R
+7 	37 	5 	51 	Y
+38 	12 	32 	18 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse PDEF
+          Mouse PDEF
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02040
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02041 	
+  Matrix: V$SPIB_02 - Spi-B 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+53 	20 	15 	13 	A
+19 	29 	48 	3 	S
+32 	36 	28 	4 	N
+0 	0 	100 	0 	G
+0 	5 	95 	0 	G
+86 	5 	4 	5 	A
+73 	7 	0 	20 	A
+20 	27 	49 	4 	S
+10 	21 	4 	65 	T
+44 	16 	20 	20 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse Spi-B
+          Mouse Spi-B-IA
+          Mouse Spi-B-IIA
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02041
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02042 	
+  Matrix: V$SPIC_01 - Spic 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+49 	22 	16 	13 	N
+21 	29 	46 	4 	N
+30 	45 	25 	0 	V
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+97 	3 	0 	0 	A
+72 	9 	0 	18 	A
+20 	25 	51 	4 	G
+4 	22 	2 	72 	T
+42 	17 	23 	17 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse Spic
+          Mouse Spic-2
+          Mouse Spic
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02042
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02043 	
+  Matrix: V$SPI1_02 - SPI1 PU.1
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+49 	15 	18 	18 	N
+24 	26 	45 	5 	N
+33 	31 	32 	3 	N
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+89 	5 	0 	5 	A
+70 	7 	1 	22 	A
+21 	27 	45 	6 	N
+6 	25 	7 	63 	T
+42 	17 	19 	22 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse SPI1
+          Mouse SPI1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02043
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02044 	
+  Matrix: V$YY1_03 - YY1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+4 	0 	26 	10 	G
+7 	22 	7 	4 	C
+0 	30 	10 	0 	C
+0 	0 	39 	1 	G
+0 	40 	0 	0 	C
+0 	40 	0 	0 	C
+40 	0 	0 	0 	A
+0 	0 	0 	40 	T
+4 	6 	4 	26 	T
+8 	0 	1 	31 	T
+5 	0 	1 	34 	T
+0 	0 	28 	7 	G
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human YY1
+          Human NF-E
+          Human YY1
+          Bovidae sp. Adi Nefas YY1
+          Bovidae sp. Adi Nefas YY1
+          Rat YY1
+          Rat YY1
+          Gallus gallus YY1
+          Gallus gallus YY1
+          Mouse YY1
+          Mouse YY1
+          Mammalia YY1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GCCGCCATTTTG 	R36067 	4 	12 	  	p
+GCCGCCATTTTG 	R36072 	4 	12 	  	p
+GCCGCCATTTTG 	R36073 	4 	12 	  	p
+GCCGCCATATTT 	R36074 	4 	12 	  	p
+GCCGCCATATTG 	R36075 	4 	12 	  	p
+GCCGCCATGTTT 	R36076 	4 	12 	  	p
+GCCGCCATTAGT 	R36077 	4 	12 	  	p
+GGCGCCATTTTG 	R36078 	4 	12 	  	p
+GGCGCCATTTTG 	R36079 	3 	12 	  	p
+GGCGCCATTTTG 	R36080 	4 	12 	  	p
+GGCGCCATTGTG 	R36081 	4 	12 	  	p
+GGCGCCATTAA  	R36082 	4 	12 	15 	p
+GACGCCATTTTG 	R36083 	4 	12 	  	p
+GACGCCATTTTG 	R36084 	4 	12 	  	p
+GACGCCATCTTG 	R36085 	4 	12 	  	p
+GACGCCATCTTG 	R36086 	4 	12 	  	p
+GTCGCCATTTTG 	R36087 	4 	12 	  	p
+GTCGCCATTTTG 	R36088 	4 	12 	  	p
+GCGGCCATTTTT 	R36089 	4 	12 	  	p
+GCGGCCATTTTG 	R36090 	4 	12 	  	p
+GCGGCCATCTT  	R36091 	5 	12 	16 	p
+GCGGCCATGTTT 	R36092 	4 	12 	  	p
+GCGGCCATGATG 	R36093 	4 	12 	  	p
+GCGGCCATTAAT 	R36094 	4 	12 	  	p
+GCGGCCATTAA  	R36095 	6 	12 	17 	p
+TCCGCCATTTTG 	R36096 	4 	12 	  	p
+TCCGCCATTTTG 	R36097 	4 	12 	  	p
+TCCGCCATATTG 	R36098 	4 	12 	  	p
+TCCGCCATATTG 	R36099 	4 	12 	  	p
+TCCGCCATGTTT 	R36100 	3 	12 	  	p
+TCCGCCATTAA  	R36101 	7 	12 	18 	p
+TGCGCCATTTTG 	R36102 	4 	12 	  	p
+TGCGCCATTTTG 	R36103 	4 	12 	  	p
+AACGCCATTTTG 	R36104 	4 	12 	  	p
+AACGCCATCTTG 	R36105 	4 	12 	  	p
+TTCGCCATCATG 	R36106 	4 	12 	  	p
+TCGGCCATTTTG 	R36107 	4 	12 	  	p
+AAGGCCATCTTG 	R36108 	4 	12 	  	p
+ATGGCCATTAA  	R36109 	6 	12 	17 	p
+GCCTCCATTTTG 	R36110 	4 	12 	  	p
+Basis for binding site sequence selection : 40 selected sequences from Peg3 and Xist genes (SELEX)
+Additional comments : Sequence selected with recombinant YY1 from a pool of double-stranded oligonucleotides containing 16-bp core with random and fixed nucleotides 5-N7CCN7-3 , 6 rounds of selection and amplification
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02044
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 18950698. YY1's longer DNA-binding motifs. Book 93 152-158 (2009).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02045 	
+  Matrix: F$RFX1_02 - RFX1 (Crt1) RFX1p b.s.
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	0 	0 	1 	T
+0 	0.6 	0 	0.4 	Y
+0 	0 	1 	0 	G
+0 	1 	0 	0 	C
+0 	0.8 	0 	0.2 	C
+0.8 	0 	0.2 	0 	A
+0 	0 	0 	1 	T
+0 	0 	1 	0 	G
+0.2 	0 	0.8 	0 	G
+0.2 	0.8 	0 	0 	C
+1 	0 	0 	0 	A
+1 	0 	0 	0 	A
+0 	1 	0 	0 	C
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Saccharomyces cerevisiae rfx1p
+Basis for binding site sequence selection : 30 selected sequences from 30 genes (Microarray data analysis)
+Additional comments : Weight matrices derived through MEME analysis in the One Occurrence Per Sequence mode and using the fifth order Markov model of yeast regulatory regions as the reference state, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02045
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 15494396. Zaim, J., Speina, E., Kierzek, A. M., Identification of New Genes Regulated by the Crt1 Transcription Factor, an Effector of the DNA Damage Checkpoint Pathway in Saccharomyces cerevisiae. J Biol Chem 280 (1) 28-37 (2005).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02048 	
+  Matrix: V$MEQCJUN_02 - MEQ:c-Jun 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+7 	1 	14 	1 	G
+15 	2 	4 	2 	A
+2 	1 	0 	20 	T
+1 	2 	18 	0 	G
+21 	1 	0 	1 	A
+0 	17 	5 	0 	C
+0 	0 	15 	0 	G
+0 	0 	0 	22 	T
+0 	20 	2 	0 	C
+21 	1 	0 	1 	A
+1 	2 	1 	19 	T
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Marek's disease herpesvirus (strain RB-1b) MEQ:c-Jun
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+AATGAC TCATC 	R36505 	8 	11 	14 	p
+GGTGAG TCATC 	R36507 	14 	11 	20 	p
+AGTGAC TCAT 	R36508 	16 	11 	22 	p
+GATGAG TCACC 	R36509 	13 	11 	19 	p
+GATGAG TCAT 	R36510 	17 	11 	23 	p
+GGTGAG TCATC 	R36511 	8 	11 	14 	p
+GATGCG TCATC 	R36512 	2 	11 	8 	p
+GATGAC TGAGT 	R36513 	6 	11 	12 	p
+AATGACG  CACC 	R36514 	14 	11 	21, 22 	p
+GCT A GTCATAG 	R36515 	14 	11 	17, 19 	p
+GTCATCGTCAT 	R36516 	5 	11 	  	p
+GCACACGTCAT 	R36517 	10 	11 	  	p
+ATACACGTCAT 	R36518 	16 	11 	  	p
+GATGACGTGTT 	R36519 	17 	11 	  	p
+AATGACGTCAT 	R36520 	10 	11 	  	p
+AATGACGTCAT 	R36521 	6 	11 	  	p
+GATGACGTCAT 	R36522 	16 	11 	  	p
+CATGACGTCAT 	R36523 	14 	11 	  	p
+AATGACGTCAT 	R36524 	16 	11 	  	p
+GAT ACGTCAT 	R36525 	17 	11 	20 	p
+GATGACGTCAC 	R36526 	2 	11 	  	p
+TATGACGTCAT 	R36527 	6 	11 	  	p
+GGTGACGTCAT 	R36528 	10 	11 	  	p
+Basis for binding site sequence selection : 23 selected sequences (SELEX)
+Additional comments : Sequence selected with purified MEQ:c-Jun from a pool of 25-random nucleotides (SELEX), 4 rounds of selection and amplification [PMID: 8794363]
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02048
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 8794363. Qian, Z., Brunovskis, P., Lee, L., Vogt, P. K., Kung, H. J., Novel DNA binding specificities of a putative herpesvirus bZIP oncoprotein. J Virol 70 (10) 7161-70 (1996).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02049 	
+  Matrix: V$MEQ_01 - MEQ MERE II (ACACACA motif)
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+13 	1 	8 	0 	R
+15 	3 	3 	1 	A
+6 	13 	1 	2 	C
+20 	2 	0 	0 	A
+3 	18 	0 	1 	C
+19 	2 	1 	0 	A
+3 	19 	0 	0 	C
+18 	3 	0 	1 	A
+3 	6 	4 	9 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Marek's disease herpesvirus (strain RB-1b) (MEQ)2
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+ACACACATT 	R36532 	5 	9 	  	p
+AAAACACAT 	R36533 	2 	9 	  	p
+AACACACAG 	R36534 	6 	9 	  	p
+AACACACAC 	R36535 	3 	9 	  	p
+AACACACAA 	R36536 	2 	9 	  	p
+AACACACAG 	R36537 	3 	9 	  	p
+AACACACAG 	R36538 	1 	9 	  	p
+AACACACAT 	R36539 	2 	9 	  	p
+ACACACACG 	R36540 	4 	9 	  	p
+GAAACACAT 	R36541 	7 	9 	  	p
+GACACACAC 	R36542 	14 	9 	  	p
+AGTACACAT 	R36543 	8 	9 	  	p
+AGAACACAC 	R36544 	6 	9 	  	p
+GGAACACCC 	R36545 	1 	9 	  	p
+CACACAAAA 	R36546 	1 	9 	  	p
+AACACACAT 	R36547 	3 	9 	  	p
+AACACACAA 	R36548 	8 	9 	  	p
+GCCACACCC 	R36549 	6 	9 	  	p
+GACATACAT 	R36550 	10 	9 	  	p
+GATAAACAT 	R36551 	11 	9 	  	p
+GACACACAT 	R36552 	7 	9 	  	p
+GTGACGCAC 	R36553 	15 	9 	  	p
+Basis for binding site sequence selection : 22 selected sequences containing ACACACA core (SELEX)
+Additional comments : Sequence selected with purified (MEQ)2 from a pool of 25-random nucleotides (SELEX), 5 rounds of selection and amplification
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02049
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 8794363. Qian, Z., Brunovskis, P., Lee, L., Vogt, P. K., Kung, H. J., Novel DNA binding specificities of a putative herpesvirus bZIP oncoprotein. J Virol 70 (10) 7161-70 (1996).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02050 	
+  Matrix: V$CTF_01 - CTF/NF1 CTF/NF1 half site divided from reverse-complementary second half site by 3 nucleotides (TTGGCA(N3)TGCCAA)
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+13.1 	25.2 	4.4 	57.3 	T
+5.4 	2.6 	9.6 	82.3 	T
+0.1 	0.05 	99.7 	0.11 	G
+4 	0.13 	94.6 	1.3 	G
+26.2 	65.7 	4.3 	3.8 	C
+43.9 	16.6 	17.3 	22.1 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mammalia NF-1
+Basis for binding site sequence selection : 6912 selected sequences (hightroughput SELEX-SAGE)
+Additional comments : calculated from a frequency model (hidden Markow model HMM)
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02050
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 12101405. Roulet, E., Busso, S., Camargo, A. A., Simpson, A. J., Mermod, N., Bucher, P., High-throughput SELEX SAGE method for quantitative modeling of transcription-factor binding sites. Nat Biotechnol 20 (8) 831-5 (2002).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02051 	
+  Matrix: V$DLX3_02 - dlx-3 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+9 	9 	9 	3 	N
+0 	0 	0 	30 	T
+30 	0 	0 	0 	A
+30 	0 	0 	0 	A
+0 	0 	0 	30 	T
+0 	1 	1 	28 	T
+19 	0 	10 	1 	R
+2 	14 	9 	5 	S
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Xenopus laevis dlx-3
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GTAATTAG 	R36684 	4 	8 	  	p
+CTAATTAC 	R36685 	4 	8 	  	p
+GTAATTAG 	R36686 	4 	8 	  	p
+ATAATTGT 	R36687 	4 	8 	  	p
+CTAATTGG 	R36688 	4 	8 	  	p
+ATAATTAC 	R36689 	4 	8 	  	p
+GTAATTAT 	R36690 	4 	8 	  	p
+ATAATTAG 	R36691 	4 	8 	  	p
+CTAATTAT 	R36692 	4 	8 	  	p
+CTAATTGC 	R36693 	4 	8 	  	p
+TTAATTGC 	R36694 	4 	8 	  	p
+ATAATGAC 	R36695 	4 	8 	  	p
+ATAATTGG 	R36696 	4 	8 	  	p
+ATAATTAC 	R36697 	4 	8 	  	p
+GTAATTAT 	R36698 	4 	8 	  	p
+ATAATTGC 	R36699 	4 	8 	  	p
+ATAATCAG 	R36700 	4 	8 	  	p
+CTAATTTA 	R36701 	4 	8 	  	p
+TTAATTGC 	R36702 	4 	8 	  	p
+ATAATTAG 	R36703 	4 	8 	  	p
+CTAATTAT 	R36704 	4 	8 	  	p
+GTAATTGC 	R36705 	4 	8 	  	p
+GTAATTGC 	R36706 	4 	8 	  	p
+CTAATTGC 	R36707 	4 	8 	  	p
+CTAATTAC 	R36708 	4 	8 	  	p
+GTAATTAG 	R36709 	4 	8 	  	p
+GTAATTAG 	R36710 	4 	8 	  	p
+CTAATTAC 	R36711 	4 	8 	  	p
+GTAATTAA 	R36712 	4 	8 	  	p
+TTAATTAC 	R36713 	4 	8 	  	p
+Basis for binding site sequence selection : 30 selected sequences (SELEX)
+Additional comments : Sequence selected with purified Dlx-3 from a pool of double-stranded oligonucleotides containing 12-random nucleotides with TAATT as core sequence (SELEX), 5 rounds of selection and amplification
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02051
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 9889271. Transcriptional activation by the homeodomain protein distal-less 3. Book 27 764-770 (1999).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02052 	
+  Matrix: V$EHF_03 - EHF special human matrix
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+19 	50 	19 	12 	C
+18 	41 	38 	3 	S
+28 	60 	9 	2 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+97 	1 	0 	1 	A
+80 	4 	1 	16 	A
+37 	7 	54 	2 	R
+17 	23 	6 	54 	T
+41 	11 	27 	21 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human ehf
+          Human ehf-isoform2
+          Human ehf-isoform1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02052
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+
+Matrix Report
+	  			
+M02053 	
+  Matrix: V$ELF_02 - ELF1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+25 	43 	14 	18 	N
+6 	69 	21 	4 	C
+13 	84 	2 	1 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+97 	1 	0 	2 	A
+66 	6 	1 	27 	A
+48 	5 	45 	2 	R
+6 	18 	7 	69 	T
+38 	13 	31 	19 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Elf-1
+          Human Elf-1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02053
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02054 	
+  Matrix: V$ELF2_02 - ELF2 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+24 	50 	9 	17 	C
+5 	76 	16 	3 	C
+14 	84 	2 	1 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+99 	0 	1 	0 	A
+70 	4 	0 	26 	A
+40 	3 	54 	3 	R
+9 	35 	9 	47 	Y
+30 	20 	26 	24 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human nerf
+          Human nerf-isoform1
+          Human nerf-isoform5
+          Human nerf-isoform2
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02054
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02055 	
+  Matrix: V$ESE1_02 - ESE-1 belongs to ETS class IIa
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+18 	48 	24 	10 	N
+19 	47 	31 	3 	S
+33 	57 	7 	2 	M
+2 	0 	98 	0 	G
+0 	0 	100 	0 	G
+96 	0 	1 	2 	A
+95 	1 	0 	4 	A
+40 	6 	53 	2 	R
+10 	27 	6 	58 	T
+48 	14 	23 	15 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human ESE-1
+          Human ESE-1
+          Human ESE-1a
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02055
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02056 	
+  Matrix: V$ELF4_02 - ELF4 belongs to ETS class IIa
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+22 	37 	24 	16 	N
+10 	62 	24 	4 	C
+12 	85 	2 	1 	C
+2 	0 	98 	0 	G
+0 	0 	101 	0 	G
+96 	0 	1 	3 	A
+75 	5 	1 	19 	A
+51 	6 	40 	3 	R
+6 	24 	6 	64 	T
+31 	20 	30 	20 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human ELFR
+          Human ELFR
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02056
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+
+Matrix Report
+	  			
+M02056 	
+  Matrix: V$ELF4_02 - ELF4 belongs to ETS class IIa
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+22 	37 	24 	16 	N
+10 	62 	24 	4 	C
+12 	85 	2 	1 	C
+2 	0 	98 	0 	G
+0 	0 	101 	0 	G
+96 	0 	1 	3 	A
+75 	5 	1 	19 	A
+51 	6 	40 	3 	R
+6 	24 	6 	64 	T
+31 	20 	30 	20 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human ELFR
+          Human ELFR
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02056
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+
+Matrix Report
+	  			
+M02057 	
+  Matrix: V$Elf5_03 - ELF5 belongs to ETS class IIa
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+15 	58 	15 	12 	C
+16 	41 	39 	4 	S
+32 	52 	11 	5 	M
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+89 	0 	6 	5 	A
+80 	4 	1 	15 	A
+41 	10 	46 	4 	R
+30 	24 	9 	38 	N
+38 	18 	26 	18 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human elf5
+          Human elf5-isoform2
+          Human elf5-isoform1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02057
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02058 	
+  Matrix: V$SAP1A_03 - SAP1A (elk4) 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+47 	18 	26 	9 	N
+9 	75 	11 	5 	C
+0 	100 	0 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+100 	0 	0 	0 	A
+77 	3 	0 	20 	A
+31 	6 	60 	3 	R
+7 	36 	5 	52 	Y
+32 	16 	36 	17 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human SAP-1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02058
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02059 	
+  Matrix: V$ELK1_06 - ELK-1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+62 	12 	17 	9 	A
+10 	72 	12 	7 	C
+6 	94 	1 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+96 	0 	3 	1 	A
+82 	2 	0 	16 	A
+22 	6 	71 	2 	G
+6 	20 	6 	68 	T
+28 	19 	27 	25 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Elk-1
+          Human Elk1-isoform2
+          Human Elk1-isoform1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02059
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02060 	
+  Matrix: V$NET_02 - Net (Elk-3) belongs to ETS class I
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+63 	9 	21 	7 	A
+8 	76 	11 	5 	C
+4 	96 	0 	0 	C
+0 	0 	101 	0 	G
+0 	0 	100 	0 	G
+100 	0 	1 	0 	A
+71 	4 	1 	25 	A
+31 	7 	60 	2 	R
+6 	21 	6 	67 	T
+29 	14 	28 	29 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Net
+          Human Net
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02060
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02061 	
+  Matrix: V$ERF_02 - ERF belongs to ETS class I
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+58 	7 	22 	13 	A
+16 	56 	14 	13 	C
+8 	89 	2 	1 	C
+0 	0 	100 	0 	G
+0 	0 	101 	0 	G
+99 	0 	0 	1 	A
+65 	5 	1 	30 	A
+39 	4 	54 	3 	R
+5 	38 	6 	51 	Y
+34 	18 	32 	15 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human ERF
+          Human ERF
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02061
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02062 	
+  Matrix: V$ERG_03 - ERG belongs to ETS class I
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+69 	6 	14 	11 	A
+11 	74 	11 	3 	C
+15 	84 	1 	0 	C
+0 	0 	101 	0 	G
+0 	1 	100 	0 	G
+98 	0 	2 	0 	A
+72 	2 	0 	26 	A
+31 	3 	64 	2 	G
+4 	27 	8 	62 	T
+29 	21 	30 	20 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Erg
+          Human Erg-1
+          Human Erg-2
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02062
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02063 	
+  Matrix: V$CETS1_02 - c-ets-1 (ets1) 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+64 	11 	16 	9 	A
+11 	68 	18 	3 	C
+23 	74 	3 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+99 	0 	0 	1 	A
+59 	3 	1 	37 	W
+30 	2 	66 	2 	G
+4 	26 	6 	64 	T
+25 	20 	31 	24 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human c-Ets-1
+          Human c-Ets-1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02063
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02064 	
+  Matrix: V$CETS2_02 - Ets2 (c-ets-2) 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+72 	7 	14 	6 	A
+9 	75 	14 	2 	C
+19 	80 	2 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+100 	0 	0 	0 	A
+54 	3 	0 	43 	W
+39 	3 	56 	2 	R
+4 	23 	6 	68 	T
+30 	20 	28 	22 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human c-Ets-2
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02064
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02065 	
+  Matrix: V$ER81_02 - ER81 (ETV1) 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+45 	9 	31 	15 	R
+17 	58 	19 	6 	C
+15 	82 	2 	2 	C
+1 	1 	99 	0 	G
+1 	3 	96 	0 	G
+94 	1 	1 	4 	A
+67 	9 	3 	22 	A
+28 	14 	54 	5 	R
+7 	37 	7 	49 	Y
+30 	16 	38 	16 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human ER81
+          Human ER81-isoform2
+          Human ER81-isoform1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02065
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02066 	
+  Matrix: V$PEA3_02 - PEA3 (ETV4) 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+49 	8 	30 	12 	R
+13 	63 	19 	5 	C
+10 	89 	1 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+97 	0 	1 	2 	A
+67 	7 	3 	24 	A
+27 	10 	58 	5 	G
+5 	32 	8 	54 	Y
+33 	19 	33 	15 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human PEA3
+          Human PEA3
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02066
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02067 	
+  Matrix: V$ER71_02 - ER71 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+52 	12 	25 	11 	A
+15 	60 	20 	5 	C
+20 	81 	2 	0 	C
+2 	0 	98 	0 	G
+0 	1 	99 	0 	G
+97 	0 	0 	3 	A
+63 	8 	0 	29 	A
+39 	4 	52 	5 	R
+6 	38 	7 	48 	Y
+33 	18 	29 	20 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human ER71
+          Human ER71
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02067
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02068 	
+  Matrix: V$ETV3_02 - ETV3 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+59 	10 	22 	10 	A
+18 	51 	15 	16 	C
+8 	88 	2 	2 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+96 	0 	2 	2 	A
+72 	6 	0 	21 	A
+30 	5 	62 	3 	G
+9 	34 	8 	50 	Y
+33 	19 	36 	12 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human etv3
+          Human etv3-isoform2
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02068
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02069 	
+  Matrix: V$ERM_02 - Erm ETV5
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+60 	15 	15 	10 	A
+6 	76 	14 	4 	C
+8 	91 	1 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+99 	0 	0 	0 	A
+64 	3 	1 	32 	A
+27 	8 	62 	4 	G
+7 	24 	6 	63 	T
+34 	15 	28 	22 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Erm
+          Human Erm
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02069
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02070 	
+  Matrix: V$TEL1_02 - TEL1 ETV6
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+18 	53 	15 	14 	C
+14 	39 	33 	14 	N
+23 	59 	13 	5 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+100 	0 	0 	0 	A
+89 	5 	1 	6 	A
+33 	17 	37 	12 	N
+18 	28 	11 	42 	N
+26 	18 	41 	14 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human TEL1
+          Human TEL1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02070
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02071 	
+  Matrix: V$ETV7_01 - ETV7 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+28 	46 	13 	12 	N
+7 	65 	22 	6 	C
+26 	60 	13 	1 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+100 	0 	0 	0 	A
+85 	5 	0 	10 	A
+39 	16 	33 	11 	N
+27 	33 	13 	28 	N
+35 	11 	37 	16 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human ETV7
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02071
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02072 	
+  Matrix: V$PET1_02 - Pet-1 FEV
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+61 	11 	13 	15 	A
+15 	68 	10 	7 	C
+15 	82 	3 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+100 	0 	0 	0 	A
+59 	1 	0 	40 	W
+39 	2 	56 	3 	R
+6 	23 	6 	66 	T
+45 	14 	23 	19 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Pet-1
+          Human Pet-1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02072
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02073 	
+  Matrix: V$FLI1_02 - Fli-1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+78 	7 	11 	4 	A
+7 	86 	7 	1 	C
+13 	85 	2 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+100 	0 	0 	0 	A
+69 	0 	0 	31 	A
+32 	1 	65 	3 	G
+11 	30 	2 	57 	Y
+45 	13 	21 	21 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Fli-1
+          Human Fli-1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02073
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02074 	
+  Matrix: V$GABPA_02 - GABPalpha 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+47 	10 	32 	11 	R
+17 	60 	19 	4 	C
+11 	86 	2 	1 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+96 	0 	2 	2 	A
+59 	8 	1 	31 	W
+49 	9 	37 	6 	R
+7 	29 	10 	54 	Y
+33 	19 	29 	19 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human GABP-alpha
+          Human GABP-alpha
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02074
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02075 	
+  Matrix: V$PDEF_02 - PDEF 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+43 	41 	9 	7 	M
+7 	80 	12 	1 	C
+28 	72 	1 	0 	C
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+100 	0 	0 	0 	A
+11 	11 	2 	76 	T
+31 	20 	40 	9 	N
+5 	28 	5 	62 	T
+36 	14 	27 	24 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human PDEF
+          Human PDEF
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02075
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02076 	
+  Matrix: V$SPIB_03 - Spi-B 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+31 	27 	16 	27 	N
+16 	11 	67 	6 	G
+45 	20 	29 	6 	N
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+99 	0 	1 	0 	A
+89 	4 	1 	7 	A
+11 	27 	58 	5 	G
+6 	30 	11 	52 	Y
+27 	21 	28 	23 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Spi-B
+          Human Spi-B-isoform1
+          Human Spi-B-isoform2
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02076
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02077 	
+  Matrix: V$SPIC_02 - Spic 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+31 	28 	16 	25 	N
+16 	11 	67 	6 	G
+44 	19 	30 	6 	N
+7 	0 	91 	2 	G
+0 	0 	100 	0 	G
+85 	2 	5 	8 	A
+87 	4 	1 	7 	A
+11 	29 	55 	5 	S
+5 	27 	15 	54 	T
+27 	21 	29 	23 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human Spic
+          Human Spic
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02077
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02078 	
+  Matrix: V$SPI1_03 - SPI1 PU.1
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+38 	27 	11 	24 	N
+16 	12 	68 	3 	G
+44 	18 	32 	7 	R
+0 	0 	100 	0 	G
+0 	0 	100 	0 	G
+86 	1 	4 	9 	A
+88 	4 	0 	9 	A
+12 	28 	57 	3 	G
+6 	25 	10 	59 	T
+28 	16 	34 	22 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human SPI1
+          Human SPI1
+Basis for binding site sequence selection : DNA-binding affinity assay
+Additional comments : hightroughput microwell-based TF DNA-binding specifity assay using 3-6 replicate measurements for each competing DNA sequence, figures are percentages
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02078
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 20517297. Wei, G. H., Badis, G., Berger, M. F., Kivioja, T., Palin, K., Enge, M., Bonke, M., Jolma, A., Varjosalo, M., Gehrke, A. R., Yan, J., Talukder, S., Turunen, M., Taipale, M., Stunnenberg, H. G., Ukkonen, E., Hughes, T. R., Bulyk, M. L., Taipale, J., Genome-wide analysis of ETS-family DNA-binding in vitro and in vivo. EMBO J 29 (13) 2147-60 (2010).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02083 	
+  Matrix: P$ATH1_01 - ATH1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	1 	0 	29 	T
+0 	0 	30 	0 	G
+30 	0 	0 	0 	A
+0 	29 	0 	1 	C
+25 	1 	3 	1 	A
+2 	0 	22 	6 	G
+5 	9 	14 	2 	S
+13 	2 	3 	12 	W
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Arabidopsis thaliana ATH1
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TGATAGGA 	R37003 	23 	8 	  	p
+TGACATAA 	R37004 	25 	8 	  	p
+TGACAAGG 	R37005 	24 	8 	  	p
+TGACAGGG 	R37006 	24 	8 	  	p
+TGACAGGA 	R37007 	24 	8 	  	p
+TGACGTGG 	R37008 	24 	8 	  	p
+TGACATTT 	R37009 	24 	8 	  	p
+TGACAGCT 	R37010 	24 	8 	  	p
+TGACAGAT 	R37011 	22 	8 	  	p
+TGACAAGT 	R37012 	24 	8 	  	p
+TGACAGGT 	R37013 	21 	8 	  	p
+TGACAGAT 	R37014 	21 	8 	  	p
+TGACATGA 	R37015 	24 	8 	  	p
+TGACAGCA 	R37016 	28 	8 	  	p
+TGACAGCT 	R37017 	21 	8 	  	p
+TGACAGGC 	R37018 	28 	8 	  	p
+TGACCGCA 	R37019 	29 	8 	  	p
+TGACGGCA 	R37020 	28 	8 	  	p
+TGACAGGT 	R37021 	21 	8 	  	p
+TGACGTTT 	R37022 	23 	8 	  	p
+TGACAGCA 	R37023 	28 	8 	  	p
+TGACAGGT 	R37024 	24 	8 	  	p
+TGACTTGT 	R37025 	24 	8 	  	p
+TGACAGAA 	R37026 	24 	8 	  	p
+TGACAGCA 	R37027 	28 	8 	  	p
+TGACAGCA 	R37028 	28 	8 	  	p
+CGACAGCA 	R37029 	29 	8 	  	p
+TGACAGAT 	R37030 	28 	8 	  	p
+TGACAGGA 	R37031 	23 	8 	  	p
+TGACAGGC 	R37032 	28 	8 	  	p
+Basis for binding site sequence selection : 30 selected sequences (SELEX)
+Additional comments : Sequence selected by recombinant ATH1 from a pool of double stranded oligonucleotides in seven rounds of selection and amplification (SELEX)
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02083
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] PMID 16497162. Viola, I. L., Gonzalez, D. H., Interaction of the BELL-like protein ATH1 with DNA: role of homeodomain residue 54 in specifying the different binding properties of BELL and KNOX proteins. Biol Chem 387 (1) 31-40 (2006).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02085 	
+  Matrix: V$BCL6_Q3_01 - Bcl-6 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+3 	8 	3 	3 	N
+0 	0 	0 	18 	T
+0 	0 	0 	18 	T
+0 	8 	0 	10 	Y
+0 	18 	0 	0 	C
+5 	2 	0 	11 	T
+13 	0 	4 	1 	A
+3 	1 	12 	2 	G
+8 	1 	7 	2 	R
+13 	1 	3 	1 	A
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human BCL-6
+          Human BCL-6
+          Rat Bcl-6
+          Rat Bcl-6
+          Mouse BCL-6
+          Mouse BCL-6
+          Mammalia BCL-6
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CTTTCCAGGG 	R00702 	19 	10 	  	p
+GTTTCAGTGA 	R13024 	22 	10 	  	n
+TTTTCTACCC 	R13025 	43 	10 	  	n
+GTTCCAAGAT 	R13026 	37 	10 	  	n
+CTTCCTAGAA 	R16701 	1 	10 	  	p
+nTTCCTAAAA 	R16702 	-1 	10 	  	p
+CTTTCTTGTA 	R17199 	2 	10 	  	n
+CTTTCTAGGA 	R26236 	10 	10 	  	n
+CTTCCAGGAG 	R27934 	7 	10 	  	n
+TTTTCAAGGA 	R29408 	10 	10 	  	p
+ATTTCTAAGA 	R30894 	6 	10 	  	p
+CTTCCCAAGA 	R30895 	3 	10 	  	p
+atTTCTAGAA 	R32057 	13 	10 	  	p
+TTTCCTAGAA 	R36487 	11 	10 	  	n
+ATTCCTGGAA 	R36613 	6 	10 	  	p
+CTTCCAAGAA 	R36618 	9 	10 	  	n
+CTTTCTGTTG 	R36623 	19 	10 	  	n
+GTTTCTAGGA 	R36627 	33 	10 	  	p
+Basis for binding site sequence selection : 18 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02085
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02087 	
+  Matrix: V$CDX2_Q5_02 - CDX-2 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+4 	1 	0 	46 	T
+2 	1 	0 	48 	T
+3 	1 	0 	47 	T
+49 	0 	1 	1 	A
+0 	11 	3 	37 	T
+18 	4 	16 	13 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse Cdx-2
+          Mouse Cdx-2
+          Human Cdx-2
+          Human Cdx-2
+          Rat Cdx-2
+          Mesocricetus auratus CDX-2
+          Mesocricetus auratus CDX-2
+          Mesocricetus auratus Cdx-3
+          Mesocricetus auratus Cdx-3
+          Chlorocebus aethiops Cdx-2
+          Cricetulus sp. Cdx-2
+          Mammalia Cdx-2
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TTTATT 	R04239 	6 	6 	  	n
+TTTACA 	R08848 	2 	6 	  	p
+ATTATT 	R08849 	28 	6 	  	n
+TTCATC 	R08850 	2 	6 	  	p
+TTTACT 	R08851 	10 	6 	  	p
+TTTATG 	R08858 	9 	6 	  	p
+TTTATG 	R08859 	8 	6 	  	p
+TTTATG 	R08873 	12 	6 	  	p
+TTTATA 	R08875 	2 	6 	  	p
+TTTATA 	R08886 	12 	6 	  	p
+TCTATT 	R14654 	13 	6 	  	n
+TTAATC 	R14656 	12 	6 	  	p
+ctTATT 	R14660 	11 	6 	  	p
+TTTATG 	R14709 	25 	6 	  	n
+TTTATA 	R14710 	11 	6 	  	n
+TTTAGG 	R14712 	26 	6 	  	p
+TTTACA 	R17112 	14 	6 	  	p
+TTTATG 	R18910 	17 	6 	  	p
+TTTACT 	R22362 	15 	6 	  	p
+TTTATG 	R22363 	13 	6 	  	n
+ATTATT 	R23671 	10 	6 	  	n
+TTTATA 	R25060 	44 	6 	  	p
+TTTACG 	R26171 	14 	6 	  	n
+TTTATG 	R26172 	10 	6 	  	n
+TTTATC 	R26536 	10 	6 	  	p
+TTTATG 	R26537 	5 	6 	  	n
+tTTATG 	R28996 	10 	6 	  	p
+TTTATA 	R28997 	9 	6 	  	p
+TTTACT 	R28998 	21 	6 	  	n
+ATTACA 	R28999 	5 	6 	  	n
+TTTGTG 	R29000 	20 	6 	  	p
+TTTAGA 	R32349 	13 	6 	  	p
+TATATC 	R32350 	10 	6 	  	p
+TTTATG 	R34486 	12 	6 	  	n
+TTTATT 	R34487 	11 	6 	  	p
+TTTATA 	R34488 	11 	6 	  	n
+TTTATA 	R36168 	9 	6 	  	n
+TATATA 	R36192 	9 	6 	  	p
+TTTATT 	R36201 	15 	6 	  	n
+TTTATT 	R36215 	16 	6 	  	p
+TTAATA 	R36236 	12 	6 	  	p
+ATTATT 	R36239 	9 	6 	  	p
+TTTATA 	R36255 	6 	6 	  	p
+TTTACA 	R36280 	3 	6 	  	p
+TTTATG 	R36285 	5 	6 	  	p
+TTTATG 	R36328 	83 	6 	  	p
+TTTATG 	R36344 	32 	6 	  	n
+TTTATT 	R36407 	8 	6 	  	p
+TTTACA 	R36654 	6 	6 	  	p
+TTTACA 	R36659 	58 	6 	  	p
+TTTACA 	R36662 	6 	6 	  	p
+Basis for binding site sequence selection : 51 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02087
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02090 	
+  Matrix: V$E2F4_Q6 - E2F-4 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	0 	11 	0 	G
+0 	11 	0 	0 	C
+0 	0 	11 	0 	G
+0 	3 	8 	0 	G
+0 	0 	10 	1 	G
+8 	1 	1 	1 	A
+6 	1 	3 	1 	A
+8 	0 	3 	0 	A
+3 	1 	4 	3 	N
+8 	1 	1 	1 	A
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human E2F-4
+          Human E2F-4
+          Rat E2F-4
+          Gallus gallus E2F4
+          Mammalia E2F-4
+          Mouse E2F-4
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GCGCGTAAAA 	R04382 	5 	10 	  	p
+GAGCGCGAAA 	R08679 	1 	10 	  	n
+GAGCGCGAAA 	R08679 	1 	10 	  	n
+TGGCGCGAAA 	R08847 	1 	10 	  	n
+GCGGGAGATA 	R09599 	5 	10 	  	p
+GCGGGGGGGA 	R24728 	10 	10 	  	p
+TGGCGGGAAG 	R25613 	21 	10 	  	n
+GCGGGCTGCA 	R25908 	10 	10 	  	p
+TGGCGGtaaa 	R29521 	11 	10 	  	n
+GCGGGAGATT 	R30591 	10 	10 	  	p
+GCGGGAAAaa 	R30955 	15 	10 	  	p
+GCGGGACAGG 	R34718 	10 	10 	  	p
+Basis for binding site sequence selection : 12 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02090
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02091 	
+  Matrix: V$E4F1_Q6_01 - E4F1 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+3 	0 	4 	0 	R
+0 	0 	0 	7 	T
+0 	0 	7 	0 	G
+7 	0 	0 	0 	A
+0 	7 	0 	0 	C
+0 	0 	7 	0 	G
+1 	0 	0 	6 	T
+5 	1 	1 	0 	A
+4 	0 	2 	1 	A
+1 	4 	2 	0 	C
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human E4F1
+          Mammalia E4F1
+          Rat E4F1
+          Mouse phiAP3
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GTGACGAAAG 	R00343 	6 	10 	  	n
+GTGACGTGGC 	R00348 	1 	10 	  	p
+GTGACGTAGG 	R00349 	1 	10 	  	p
+GTGACGTATC 	R00351 	1 	10 	  	p
+ATGACGTAAC 	R00363 	2 	10 	  	n
+ATGACGTAAC 	R00364 	-3 	10 	  	n
+ATGACGTCAA 	R32985 	10 	10 	  	p
+Basis for binding site sequence selection : 7 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02091
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02094 	
+  Matrix: V$ERR3_Q2_01 - ERR3 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+6 	4 	3 	2 	N
+2 	4 	4 	5 	N
+3 	1 	1 	14 	T
+2 	15 	1 	1 	C
+18 	0 	2 	0 	A
+19 	0 	1 	0 	A
+0 	0 	19 	1 	G
+0 	0 	20 	0 	G
+1 	0 	0 	19 	T
+1 	17 	1 	1 	C
+18 	0 	1 	0 	A
+2 	10 	2 	2 	C
+1 	4 	5 	5 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse ERR3
+          Human ERR3
+          Rat ERR3
+          Mammalia ERR3
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CTGCAAGGTCACG 	R24690 	3 	13 	  	p
+GATTAAGGTCAGG 	R24691 	6 	13 	  	p
+TTTCGAGGTCATG 	R28118 	5 	13 	  	p
+GTTAGAGGTCAGA 	R28119 	2 	13 	  	p
+TCTCAATGTCACG 	R31026 	3 	13 	  	n
+AAACAAGGACAAG 	R31027 	15 	13 	  	p
+nnTCAAGGTAnnn 	R33941 	-3 	13 	  	n
+nnnnAAGGTCACn 	R33944 	-4 	13 	  	p
+AGTCAAGGTTGTT 	R34094 	3 	13 	  	p
+ACTCAAGGTCACT 	R35017 	48 	13 	  	n
+ACTCAAGGTCACT 	R35037 	23 	13 	  	n
+AGTAAAGGTCACC 	R35435 	12 	13 	  	p
+AGTCAAGGTCACC 	R35436 	9 	13 	  	p
+CTTCAAGGTCAAC 	R35437 	8 	13 	  	p
+CGTCAGGGTCACC 	R35439 	8 	13 	  	p
+GCTCAAGGTCACT 	R35440 	5 	13 	  	p
+ctACAAGGTCAct 	R35441 	6 	13 	  	n
+nncCAAGGTCAnn 	R36644 	-2 	13 	  	p
+nnACAAGGTCAnn 	R36647 	-2 	13 	  	p
+nnTGAAGGTgAnn 	R36648 	-2 	13 	  	n
+Basis for binding site sequence selection : 20 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02094
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02099 	
+  Matrix: V$MITF_Q6 - MITF 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	72 	0 	0 	C
+71 	1 	0 	0 	A
+5 	8 	10 	49 	T
+3 	7 	60 	2 	G
+0 	0 	1 	71 	T
+0 	0 	72 	0 	G
+34 	21 	9 	7 	M
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human MITF
+          Human MITF-H1
+          Human MITF-A1
+          Human MITF-C1
+          Human MITF-H2
+          Human MITF-C2
+          Human MITF-B2
+          Human MITF-M2
+          Human MITF-B1
+          Human MITF-A2
+          Human MITF-M1
+          Mouse MITF
+          Mouse MITF-A1
+          Mouse MITF-H2
+          Mouse MITF-H3
+          Mouse MITF-M1
+          Mouse MITF-H
+          Mouse MITF-H1
+          Mouse MITF-A
+          Mouse MITF-A2
+          Mouse MITF-M
+          Bovidae sp. Adi Nefas MITF
+          Bovidae sp. Adi Nefas MITF
+          Mammalia MITF
+          Rat MITF
+          Rat MITF
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CACGTGT 	R15371 	11 	7 	  	p
+CATGTGA 	R15372 	14 	7 	  	p
+CATGTGg 	R15373 	9 	7 	  	n
+CATGTGa 	R15374 	9 	7 	  	n
+CATGTGA 	R15381 	6 	7 	  	n
+CATGTGA 	R15386 	6 	7 	  	p
+CATGTGA 	R15387 	6 	7 	  	n
+CACGTGA 	R15417 	8 	7 	  	n
+CATGTGC 	R15421 	13 	7 	  	p
+CATGTGC 	R15422 	10 	7 	  	p
+CATGTGA 	R15424 	15 	7 	  	p
+CAAGTGT 	R15425 	8 	7 	  	p
+CATGTGC 	R15430 	10 	7 	  	p
+CATGTGA 	R15438 	12 	7 	  	p
+CATGTGA 	R15440 	7 	7 	  	p
+CATGTGC 	R15441 	9 	7 	  	p
+CATGTGC 	R15442 	9 	7 	  	p
+CATGTGC 	R15486 	11 	7 	  	p
+CATGTGT 	R15497 	12 	7 	  	n
+CATGTGC 	R15500 	2 	7 	  	n
+CATGTGG 	R15501 	14 	7 	  	p
+CATGTGA 	R15509 	2 	7 	  	n
+CATGTGC 	R15757 	14 	7 	  	p
+CATGTGA 	R15758 	10 	7 	  	p
+CATGTGa 	R15760 	38 	7 	  	n
+CAAGTGA 	R16093 	6 	7 	  	n
+CCTGTGG 	R16094 	9 	7 	  	p
+CATCTGG 	R16095 	10 	7 	  	p
+CATGTGT 	R16096 	9 	7 	  	n
+CAGGTGC 	R16099 	6 	7 	  	n
+CATCTGC 	R16108 	48 	7 	  	p
+CATGTGG 	R16110 	9 	7 	  	n
+CATATGT 	R16111 	10 	7 	  	p
+CATGTGG 	R21435 	14 	7 	  	p
+CATGTGC 	R22871 	9 	7 	  	p
+CACGTGC 	R22872 	10 	7 	  	p
+CAGGTGa 	R22933 	16 	7 	  	p
+CACGTGA 	R22945 	25 	7 	  	n
+CATGTGC 	R22953 	12 	7 	  	p
+CAAGTGA 	R22957 	10 	7 	  	n
+CATCTGA 	R22968 	10 	7 	  	n
+CACGTGG 	R22969 	8 	7 	  	n
+CATTTGG 	R22970 	18 	7 	  	p
+CATGTGA 	R22971 	7 	7 	  	n
+CAGGTGT 	R22972 	14 	7 	  	p
+CAGGTGc 	R22975 	8 	7 	  	n
+CATGgga 	R22997 	13 	7 	  	p
+CATGTGc 	R23004 	14 	7 	  	n
+CATGTGc 	R23005 	9 	7 	  	n
+CACGTGN 	R23808 	11 	7 	  	p
+CATGTGA 	R24221 	13 	7 	  	n
+CAAGTGA 	R24228 	8 	7 	  	p
+CATGTGT 	R24240 	9 	7 	  	n
+CACGTGA 	R24241 	10 	7 	  	n
+CACGTGA 	R24242 	12 	7 	  	n
+CAGCTGC 	R24246 	2 	7 	  	p
+CAGGTGC 	R24275 	8 	7 	  	p
+CATGTGA 	R24285 	27 	7 	  	n
+CATATGA 	R24486 	-2 	7 	  	p
+CATATGA 	R24487 	10 	7 	  	p
+CATGTGA 	R24491 	13 	7 	  	p
+CATTTGA 	R27387 	1 	7 	  	p
+CAGCTGA 	R27388 	1 	7 	  	n
+CAACTGA 	R27390 	1 	7 	  	n
+CATGTGa 	R30051 	12 	7 	  	n
+CATGTGc 	R30052 	9 	7 	  	n
+CATCTGA 	R34289 	-1 	7 	  	n
+CAGGTGC 	R34642 	11 	7 	  	n
+CAGGTGG 	R34644 	11 	7 	  	n
+CATGTGA 	R36620 	35 	7 	  	n
+CATGTGa 	R36621 	9 	7 	  	n
+CAGGTGc 	R36622 	11 	7 	  	n
+Basis for binding site sequence selection : 72 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02099
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02100 	
+  Matrix: V$MYOD_Q6_02 - MyoD 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+1 	79 	0 	0 	C
+76 	2 	1 	1 	A
+7 	28 	35 	10 	S
+4 	63 	10 	3 	C
+1 	1 	0 	78 	T
+0 	2 	77 	1 	G
+7 	23 	13 	37 	N
+4 	48 	5 	23 	C
+22 	19 	18 	20 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human MyoD
+          Human MyoD
+          Gallus gallus MyoD
+          Gallus gallus MyoD
+          Rat MyoD
+          Rat MyoD
+          Xenopus laevis MyoD
+          Xenopus laevis MyoD
+          Chlorocebus aethiops MyoD
+          Cyprinus carpio MyoD
+          Danio rerio MyoD
+          Oncorhynchus mykiss MyoD (376 AA)
+          Oncorhynchus mykiss MyoD (275 AA)
+          Coturnix coturnix MyoD
+          Mouse MyoD
+          Mouse MyoD
+          Mammalia MyoD
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CAGCTGTCA 	R00012 	4 	9 	  	p
+CACCTGTTC 	R00014 	-2 	9 	  	n
+CACCTGTCC 	R00019 	8 	9 	  	p
+CACCTGCTG 	R00242 	6 	9 	  	p
+CAGCTGGCn 	R00850 	2 	9 	  	p
+CACCTGCCT 	R00881 	-1 	9 	  	n
+caGCTGGcc 	R01620 	4 	9 	  	n
+cacctGCTG 	R02418 	9 	9 	  	n
+CAGCTGGCA 	R02419 	10 	9 	  	p
+CAACTGACC 	R02452 	3 	9 	  	p
+CAGCTGTCT 	R02898 	10 	9 	  	n
+CACCTGCTG 	R03074 	2 	9 	  	n
+CAGCTGGCG 	R03075 	2 	9 	  	p
+CACCTGTTG 	R03076 	2 	9 	  	n
+CACCTGCCT 	R03109 	1 	9 	  	p
+CACCTGTCT 	R03330 	8 	9 	  	p
+CATCTGTCC 	R04020 	4 	9 	  	p
+CAGCTGACA 	R04021 	19 	9 	  	p
+CAGATGTCC 	R04046 	17 	9 	  	n
+CACCTGCTG 	R04418 	11 	9 	  	p
+CAACTGCTG 	R14856 	2 	9 	  	n
+CAGCTGACA 	R14857 	8 	9 	  	n
+CAGCTGTTG 	R14858 	12 	9 	  	p
+CAGCTGTCT 	R14863 	8 	9 	  	n
+CAGCTGTTC 	R14864 	20 	9 	  	n
+CACCTGCCT 	R16707 	11 	9 	  	n
+CACCTGCTg 	R16711 	14 	9 	  	p
+CACCTGCTt 	R16714 	14 	9 	  	p
+CAGGTGCCt 	R16715 	14 	9 	  	p
+CATCTGCCt 	R16718 	10 	9 	  	n
+CACCTGCTc 	R16721 	12 	9 	  	p
+CATCTGTCt 	R16722 	10 	9 	  	n
+CACCTGTtc 	R16726 	14 	9 	  	p
+CACGTGCTG 	R20212 	2 	9 	  	n
+CAGGTGTCA 	R20375 	11 	9 	  	p
+CATCTGTCG 	R20586 	10 	9 	  	p
+CATCTGTCA 	R20589 	7 	9 	  	n
+CAGCTGGCC 	R20590 	10 	9 	  	p
+CACCAGCCT 	R20591 	-3 	9 	  	p
+CCGCTGAAA 	R20592 	-3 	9 	  	p
+CAGCTGGCA 	R20593 	8 	9 	  	n
+CCTGTGGGC 	R20595 	18 	9 	  	p
+CGCCTGTCA 	R20596 	13 	9 	  	p
+CAGCTGGCA 	R21748 	12 	9 	  	p
+CAGCTGTTC 	R21757 	10 	9 	  	p
+CAGCTGTTA 	R22201 	10 	9 	  	p
+CAGCTGTCA 	R22281 	7 	9 	  	n
+CACATGAct 	R25453 	10 	9 	  	p
+CAAGTGCca 	R25456 	5 	9 	  	n
+CAGCTGCTG 	R26210 	11 	9 	  	p
+CAGCTGGTA 	R26268 	3 	9 	  	n
+CAGCTGTCT 	R26271 	3 	9 	  	n
+CACCTGGGT 	R26275 	7 	9 	  	p
+CACCTGTTC 	R26341 	10 	9 	  	n
+CAGCTGCTG 	R26413 	11 	9 	  	p
+CAGCTGCCG 	R26414 	10 	9 	  	n
+CAGCTGTCC 	R26437 	4 	9 	  	p
+CACCTGTCT 	R28279 	27 	9 	  	n
+CAGCTGTCA 	R29160 	10 	9 	  	p
+CAGCTGCCA 	R29174 	5 	9 	  	n
+CAGCTGTTA 	R29461 	8 	9 	  	p
+CAGCTGTAA 	R29462 	12 	9 	  	p
+CACATGTAT 	R29572 	1 	9 	  	n
+CACCCGCCG 	R32406 	-1 	9 	  	n
+CACCTTTGC 	R32407 	10 	9 	  	n
+CACCTCAGC 	R32415 	13 	9 	  	n
+CAGGTCTCC 	R32420 	8 	9 	  	n
+CACCTGTTG 	R32855 	10 	9 	  	p
+CACCTGTCT 	R33222 	6 	9 	  	p
+CAGTTGtct 	R33244 	7 	9 	  	n
+CAGTTGgcg 	R33246 	6 	9 	  	n
+CATGTGGCA 	R35608 	5 	9 	  	p
+CAATTGTGA 	R35609 	5 	9 	  	n
+CAAATGtat 	R35610 	4 	9 	  	p
+CATCTGCTG 	R35611 	2 	9 	  	n
+CATGTGACA 	R35612 	3 	9 	  	n
+CAAGTGtcc 	R35613 	5 	9 	  	p
+CAGCTGcct 	R35614 	6 	9 	  	p
+CAAGTGtcc 	R35615 	6 	9 	  	p
+ATTCTGGCA 	R35620 	14 	9 	  	n
+Basis for binding site sequence selection : 80 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02100
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02101 	
+  Matrix: V$MYOGENIN_Q6_01 - myogenin 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	30 	0 	0 	C
+30 	0 	0 	0 	A
+0 	1 	29 	0 	G
+2 	21 	5 	2 	C
+1 	0 	0 	29 	T
+0 	0 	30 	0 	G
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse myogenin
+          Mouse myogenin
+          Human Myogenin
+          Human Myogenin
+          Gallus gallus myogenin
+          Gallus gallus myogenin
+          Coturnix coturnix myogenin
+          Rat myogenin
+          Rat myogenin
+          Mammalia Myogenin
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+GACAGG 	R00019 	8 	6 	  	n
+AGCAGG 	R00242 	6 	6 	  	n
+CAGCTG 	R00850 	2 	6 	  	p
+Caggtg 	R02418 	9 	6 	  	p
+CAGCTG 	R02419 	10 	6 	  	p
+GTCAGT 	R02452 	3 	6 	  	n
+CAGCTG 	R02898 	13 	6 	  	p
+CAGGTG 	R03074 	5 	6 	  	p
+CAGCTG 	R03075 	2 	6 	  	p
+GGCAGG 	R03109 	1 	6 	  	n
+CGCAGA 	R04046 	20 	6 	  	n
+CCCAGA 	R08512 	1 	6 	  	n
+CAGTTG 	R14856 	5 	6 	  	p
+CAGCTG 	R14857 	11 	6 	  	p
+CAGCTG 	R14858 	12 	6 	  	p
+CAGCTG 	R21748 	12 	6 	  	p
+CAGCTG 	R21757 	10 	6 	  	p
+CAGCTG 	R22201 	10 	6 	  	p
+CAGCTG 	R22281 	10 	6 	  	p
+CAGCTG 	R26413 	11 	6 	  	p
+CAGCTG 	R26414 	13 	6 	  	p
+CAGCTG 	R26437 	4 	6 	  	p
+CAGCTG 	R26974 	7 	6 	  	p
+CAGCTG 	R29174 	8 	6 	  	p
+CAGCTG 	R29375 	10 	6 	  	p
+CAGCTG 	R29461 	8 	6 	  	p
+CAGCTG 	R29462 	12 	6 	  	p
+CAGCTG 	R30388 	11 	6 	  	p
+CAGCTG 	R30391 	11 	6 	  	p
+CACGTG 	R35478 	1 	6 	  	p
+Basis for binding site sequence selection : 30 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02101
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02103 	
+  Matrix: V$NF1A_Q6 - NF-1A 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+3 	14 	4 	20 	Y
+10 	0 	10 	21 	T
+7 	5 	25 	4 	G
+3 	3 	31 	4 	G
+9 	23 	3 	6 	C
+6 	12 	7 	16 	N
+10 	13 	5 	13 	N
+5 	9 	15 	12 	N
+9 	5 	12 	15 	N
+8 	8 	6 	19 	N
+0 	0 	39 	2 	G
+1 	34 	5 	1 	C
+0 	41 	0 	0 	C
+40 	1 	0 	0 	A
+17 	6 	12 	6 	N
+9 	5 	16 	11 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse NF-1A
+          Mouse NFIA1-xbb2
+          Mouse NFIA1-xbb1
+          Mouse NFIB6
+          Mouse NFIA2
+          Mouse NF-1A
+          Gallus gallus NF-1A1
+          Gallus gallus NF-1A1
+          Human NF-1A
+          Human NF-1A
+          Rat NF-1A
+          Rat NF-1A1
+          Rat NF-1/L
+          Rat NF-1A
+          Rat NF-1A2
+          Rat NF-1A3
+          Rat NF-1A4
+          Rat NFIA2.1
+          Oryctolagus cuniculus NFI
+          Mammalia NF-1A
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CTGGCTTTGTGACATT 	R00085 	1 	16 	  	p
+TTGGCAAAGATGGTAT 	R00088 	22 	16 	  	p
+TTGGCAAGGATGGTAT 	R00095 	4 	16 	  	p
+TTTTAATATTGGCACT 	R00313 	10 	16 	  	n
+TTGGCAAATTGCCTAA 	R00431 	10 	16 	  	p
+GGTGCCCTCTGGCCGC 	R00607 	11 	16 	  	n
+CTTGTAAGTTGGCGAG 	R00633 	5 	16 	  	n
+CTGGCAAGGCGCCCAC 	R01162 	6 	16 	  	p
+TTATCATATTGGCTTC 	R01175 	8 	16 	  	n
+ATGGCTATGATCCAAA 	R01213 	-1 	16 	  	p
+AT 	R01455 	30 	16 	  	n
+CTGGCACATTTCGTGC 	R01624 	3 	16 	  	p
+GTGGCAGATAACCCGG 	R01698 	13 	16 	  	p
+TTGGAGCAGGACCCAA 	R02945 	5 	16 	  	p
+TTGGCGAGAAGTAACT 	R02990 	3 	16 	  	p
+TCCAACAGCTGGCTCC 	R03309 	9 	16 	  	n
+CCCGGAGCTTGGCAAC 	R04515 	8 	16 	  	n
+ATGGCGACTGTCCAGC 	R11730 	16 	16 	  	p
+GTGGCGCTGAGCCCTC 	R16546 	5 	16 	  	p
+GTGGCGCTGGGCCCTC 	R16567 	5 	16 	  	p
+GTGTAGCCTTGGCAGT 	R18406 	12 	16 	  	n
+nnnnnCTATTGGCAAT 	R19931 	10 	16 	  	n
+TTGGCGTGTTATCAAG 	R20544 	8 	16 	  	p
+CTGGCCCCCAGTGTAC 	R20899 	11 	16 	  	p
+CCTCCGCCCTGGCCTC 	R20911 	11 	16 	  	n
+CTGGCGTCAAGCCAAG 	R21106 	7 	16 	  	p
+TTGGCAGCTGCCCAGG 	R21436 	4 	16 	  	p
+GTGGAAAAACCCAGGA 	R21445 	1 	16 	  	p
+CGTGAGAACTGGCAAA 	R21499 	18 	16 	  	n
+CTGGCGTCGGGCGTGC 	R21506 	15 	16 	  	p
+ATGGCGACTATCCAGC 	R26260 	7 	16 	  	p
+GTGCCTGAGAGCTCAT 	R26263 	23 	16 	  	p
+CTGTCCCAGAAGTCAC 	R26265 	2 	16 	  	p
+GTGCCCAACAGGACAT 	R26317 	19 	16 	  	p
+GCCCCCTTTTGGCTTG 	R28145 	9 	16 	  	n
+TTGGCAAACTCCTCCC 	R31018 	11 	16 	  	p
+ngcggctcTTGGCCCA 	R31544 	12 	16 	  	n
+AAAGATGCTTGGCACC 	R31546 	13 	16 	  	n
+CTGGCAGCCAGGGGCC 	R32258 	12 	16 	  	p
+TTCCCAGCTTGGCATA 	R34478 	46 	16 	  	n
+Basis for binding site sequence selection : 41 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02103
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02104 	
+  Matrix: V$NFE2_Q6 - NF-E2 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+3 	6 	1 	1 	C
+6 	3 	1 	1 	A
+0 	0 	0 	11 	T
+0 	0 	11 	0 	G
+8 	1 	1 	1 	A
+0 	8 	3 	0 	C
+0 	1 	0 	10 	T
+1 	8 	1 	1 	C
+8 	2 	0 	1 	A
+1 	1 	8 	1 	G
+0 	10 	0 	1 	C
+6 	1 	1 	3 	A
+3 	4 	3 	1 	N
+4 	2 	2 	3 	N
+1 	6 	2 	2 	C
+3 	5 	1 	2 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse NF-E2
+          Human NF-E2
+          Human NF-E2p45
+          Human NF-E2 p45
+          Rat NF-E2 p45
+          Rat NF-E2 p45
+          Gallus gallus NF-E2
+          Mouse NF-E2 p45
+          Mouse NF-E2 p45
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CCTGGCT         GCCCTGCCC 	R01250 	7 	16 	14, 15, 16, 17, 18, 19, 20, 21, 22 	p
+ CCTGCCC        CTGCCAGCT 	R01251 	1 	16 	1, 9, 10, 11, 12, 13, 14, 15, 16 	p
+GCTGACTCATGCTAGC 	R01946 	11 	16 	  	p
+     CATCATGACTCAGCAT 	R02420 	1 	16 	1, 2, 3, 4, 5 	n
+GATGACTCAT      GCCTGT 	R02887 	1 	16 	11, 12, 13, 14, 15, 16 	p
+CATGACTCAGT     GCTTC 	R03439 	9 	16 	20, 21, 22, 23, 24 	p
+CAGGATGACTCAGCAG 	R03440 	1 	16 	  	n
+  TTTGACT       CAGCAAACA 	R04288 	1 	16 	1, 2, 10, 11, 12, 13, 14, 15, 16 	p
+TCCAGTGACTCAGCAC 	R20890 	5 	16 	  	n
+GTTCACTAGCAACCTC 	R20952 	7 	16 	  	p
+GACAATGACTAAGCAG 	R22710 	7 	16 	  	n
+Basis for binding site sequence selection : 11 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02104
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02105 	
+  Matrix: V$NFE4_Q5 - NF-E4 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+1 	3 	1 	0 	C
+2 	2 	0 	2 	H
+0 	6 	0 	0 	C
+0 	6 	0 	0 	C
+0 	5 	1 	0 	C
+0 	1 	1 	4 	T
+2 	4 	0 	0 	C
+0 	1 	3 	2 	K
+0 	6 	0 	0 	C
+0 	5 	0 	1 	C
+3 	0 	1 	2 	W
+0 	2 	4 	0 	G
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human NF-E4
+          Gallus gallus NF-E4
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CCCCCTCTCTTC 	R01950 	-3 	12 	  	n
+CCCCCGCCCCAC 	R08247 	-1 	12 	  	p
+CACCGCCGCCTG 	R08248 	1 	12 	  	n
+ATCCCTAGCCAG 	R23369 	25 	12 	  	n
+GACCCTCTCCGG 	R35643 	15 	12 	  	p
+nTCCCTAGCCAG 	R35687 	25 	12 	  	n
+Basis for binding site sequence selection : 6 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02105
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02108 	
+  Matrix: V$NKX25_Q6 - Nkx-2.5 CSX
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+6 	16 	14 	4 	N
+10 	14 	4 	14 	N
+1 	43 	0 	1 	C
+42 	3 	0 	0 	A
+2 	41 	0 	2 	C
+0 	7 	0 	38 	T
+2 	3 	1 	39 	T
+6 	11 	25 	3 	G
+17 	11 	6 	5 	N
+19 	6 	10 	3 	R
+10 	3 	14 	5 	N
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human CSX
+          Human CSX
+          Mouse CSX
+          Mouse CSX
+          Xenopus laevis CSX
+          Gallus gallus CSX
+          Rat CSX
+          Rat CSX
+          Mammalia CSX
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CACACCTGTAC 	R15769 	6 	11 	  	p
+ TCACACCTGAT 	R15775 	1 	11 	1 	n
+ TCACACCtgat 	R15776 	1 	11 	1 	n
+TGTCACTTGCG 	R15781 	1 	11 	  	n
+TGTCACTTGCA 	R15783 	1 	11 	  	n
+ TCACACCtgcc 	R15784 	1 	11 	1 	n
+TGTCACTTGCA 	R15786 	1 	11 	  	n
+ TCACACCtgac 	R15787 	1 	11 	1 	n
+TGTCACttgca 	R15789 	1 	11 	  	n
+   TGTCACCAGAA 	R15790 	1 	11 	1, 2, 3 	n
+   TCCCACTTCTT 	R15792 	1 	11 	1, 2, 3 	n
+   TGTCACcagnn 	R15793 	1 	11 	1, 2, 3 	n
+   TCCCACttcnn 	R15794 	1 	11 	1, 2, 3 	n
+TCCCACTTCAA 	R15799 	10 	11 	  	n
+CCCCACTTCAA 	R15801 	10 	11 	  	n
+tcCACTTGAaa 	R15847 	9 	11 	  	p
+   nnnCAC  TTCnn 	R15862 	1 	11 	1, 2, 3, 10, 11 	n
+   nnnCAC  TTGnn 	R15864 	1 	11 	1, 2, 3, 10, 11 	n
+cacCACTTTgg 	R15867 	11 	11 	  	n
+CCCCACTTCAA 	R15968 	10 	11 	  	n
+TGTCACTTGCG 	R16044 	1 	11 	  	n
+TGTCACTTGCA 	R16045 	1 	11 	  	n
+TGTCACTTGCA 	R16046 	1 	11 	  	n
+TGTCACTTGCA 	R16047 	1 	11 	  	n
+atgCACTTGAa 	R16056 	11 	11 	  	n
+ GGCCATTCATG 	R16058 	1 	11 	1 	p
+GCGCCATTCAT 	R16076 	4 	11 	  	n
+CGCCATTCATG 	R16077 	1 	11 	  	p
+AGAAACTTGAA 	R16087 	5 	11 	  	n
+ATACCCTTGAC 	R16089 	4 	11 	  	n
+CCCCACTTCAA 	R16100 	7 	11 	  	n
+ TGTCACTTGCG 	R16101 	1 	11 	1 	n
+CCCCACTTCAA 	R16102 	7 	11 	  	n
+CCCCACTTCAA 	R16103 	7 	11 	  	n
+ nnACACTTG AG 	R16109 	1 	11 	1, 11 	n
+GCCTCCTTATC 	R17161 	14 	11 	  	n
+AAACACTTCCA 	R32246 	4 	11 	  	n
+AACCACTTAGG 	R32443 	54 	11 	  	n
+GAGCACTTGGC 	R33379 	9 	11 	  	n
+GAGCACTTGGC 	R33380 	9 	11 	  	n
+AATCACTGTAA 	R34471 	8 	11 	  	n
+GTTCACTCTAA 	R34473 	9 	11 	  	n
+TGTCAATTAGG 	R35898 	12 	11 	  	n
+ACACACTTAGG 	R35899 	9 	11 	  	n
+  TTCCACT  TGTC 	R35921 	1 	11 	1, 2, 10, 11 	n
+Basis for binding site sequence selection : 45 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02108
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02109 	
+  Matrix: V$NKX2B_Q3 - NKX2B 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	9 	1 	1 	C
+10 	1 	0 	0 	A
+0 	11 	0 	0 	C
+0 	1 	0 	10 	T
+0 	1 	1 	9 	T
+3 	3 	3 	2 	N
+6 	2 	0 	3 	A
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse NKX2B
+          Mouse NKX2B
+          Mesocricetus auratus NKX2B
+          Mesocricetus auratus NKX2B
+          Gallus gallus NKX2B
+          Gallus gallus NKX2B
+          Human NKX2B
+          Human NKX2B
+          Mammalia NKX2B
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+CAAACAC 	R15420 	11 	7 	  	n
+TTATCAC 	R16587 	10 	7 	  	n
+GCACTTA 	R16588 	12 	7 	  	p
+ATTCCAC 	R18138 	12 	7 	  	n
+CAAACAC 	R19211 	6 	7 	  	n
+CAAGCAC 	R20799 	10 	7 	  	n
+CCACTTG 	R26182 	11 	7 	  	p
+GCCCTCA 	R26184 	5 	7 	  	p
+CCTACAC 	R31394 	20 	7 	  	n
+AGTACTC 	R35712 	14 	7 	  	n
+CCACTGT 	R35713 	19 	7 	  	p
+Basis for binding site sequence selection : 11 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02109
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02111 	
+  Matrix: V$NR1B2_Q6 - NR1B2 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+3 	7 	7 	6 	N
+0 	0 	0 	24 	T
+0 	0 	24 	0 	G
+23 	0 	0 	1 	A
+6 	17 	1 	0 	C
+0 	23 	0 	1 	C
+1 	12 	0 	11 	Y
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Rat NR1B2
+          Chlorocebus aethiops NR1B2
+          Human NR1B2
+          Mammalia NR1B2
+          Mouse NR1B2
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TTGACCC 	R00135 	15 	7 	  	p
+CTGACCT 	R01063 	2 	7 	  	n
+GTGAACC 	R01321 	3 	7 	  	n
+GTGACCT 	R02856 	10 	7 	  	n
+ATGACCC 	R03017 	10 	7 	  	p
+tTGACCC 	R03928 	10 	7 	  	p
+GTGACCT 	R03931 	2 	7 	  	n
+TTGACCT 	R03932 	1 	7 	  	n
+GTGAACC 	R04451 	4 	7 	  	n
+TTGACCT 	R04519 	5 	7 	  	p
+nTGAACT 	R04634 	-1 	7 	  	p
+GTGACCC 	R04761 	3 	7 	  	p
+GTGAACC 	R09141 	3 	7 	  	n
+CTGACTC 	R13314 	11 	7 	  	n
+CTGTCCT 	R13317 	17 	7 	  	p
+TTGACCT 	R17087 	18 	7 	  	n
+ctgagct 	R19685 	16 	7 	  	n
+ctgacct 	R19689 	19 	7 	  	p
+GTGAACA 	R20525 	2 	7 	  	n
+ATGACCC 	R20531 	25 	7 	  	n
+ATGACCC 	R27274 	5 	7 	  	n
+TTGAACC 	R27435 	18 	7 	  	n
+CTGACCT 	R27612 	15 	7 	  	n
+CTGACCC 	R35897 	27 	7 	  	p
+Basis for binding site sequence selection : 24 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02111
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02112 	
+  Matrix: V$OC2_Q3 - OC-2 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	0 	0 	5 	T
+0 	5 	0 	0 	C
+4 	1 	0 	0 	A
+5 	0 	0 	0 	A
+0 	0 	0 	5 	T
+4 	1 	0 	0 	A
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Mouse OC-2
+          Mouse OC-2
+          Human OC-2
+          Human OC-2
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TCAATA 	R08894 	9 	6 	  	p
+AATCAA 	R08911 	15 	6 	  	n
+TCAATC 	R08912 	11 	6 	  	p
+TCCATA 	R08914 	23 	6 	  	p
+TCAATA 	R33017 	27 	6 	  	p
+Basis for binding site sequence selection : 5 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02112
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02113 	
+  Matrix: V$OCAB_Q6 - OCA-B 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+5 	0 	0 	1 	A
+1 	1 	0 	4 	T
+4 	1 	0 	1 	A
+0 	0 	0 	6 	T
+0 	0 	6 	0 	G
+0 	6 	0 	0 	C
+5 	0 	1 	0 	A
+4 	1 	0 	1 	A
+5 	0 	1 	0 	A
+0 	1 	1 	4 	T
+1 	4 	0 	0 	C
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Human OCA-B
+          Human OCA-B
+          Mouse OCA-B
+          Mouse OCA-B
+          Mammalia OCA-B
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+AAATGCAAATn 	R16340 	6 	11 	  	p
+ATTTGCATACC 	R16344 	3 	11 	  	n
+ATATGCAAATA 	R16346 	14 	11 	  	p
+ATATGCAAATC 	R16347 	14 	11 	  	p
+ATATGCAAATC 	R16348 	14 	11 	  	p
+TCCTGCGCGGC 	R31088 	17 	11 	  	n
+Basis for binding site sequence selection : 6 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02113
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+Matrix Report
+	  			
+M02117 	
+  Matrix: V$STAT4_Q5 - STAT4 
+
+ 
+  	
+	  	Positional Weight Matrix 	jump to top help 	
+	 
+  	  	
+  	
+Matrix overview 	 
+	 
+  	  	
+Sequence logo :
+
+
+Click for fullsize view!
+Nucleotide position frequency
+
+A 	C 	G 	T 	Consensus
+0 	1 	2 	18 	T
+0 	3 	1 	17 	T
+8 	9 	2 	2 	M
+5 	6 	2 	8 	N
+8 	4 	6 	3 	N
+10 	0 	11 	0 	R
+0 	0 	21 	0 	G
+21 	0 	0 	0 	A
+21 	0 	0 	0 	A
+14 	2 	1 	4 	A
+	  	 
+  	
+Experimental basis for positional weight matrix construction 	 
+	 
+  	  	
+Transcription factors :
+          Rat STAT4
+          Human STAT4
+          Human STAT4
+          Mouse STAT4
+          Mouse STAT4
+          Mammalia STAT4
+Site alignment :
+Sequence 	Derived From 	Start 	Length 	Gaps 	Orientation
+TTCTAGGAAG 	R11154 	8 	10 	  	p
+TTATCAGAAA 	R11155 	7 	10 	  	n
+TTATTGGAAA 	R13236 	4 	10 	  	n
+TTCTCGGAAT 	R13241 	6 	10 	  	n
+TTACAGGAAC 	R13242 	7 	10 	  	n
+TTCCCAGAAA 	R16930 	12 	10 	  	p
+TTGCAGGAAA 	R22537 	10 	10 	  	n
+TCGCGGGAAA 	R25470 	10 	10 	  	p
+TTTAGAGAAC 	R25471 	35 	10 	  	n
+TCAGAAGAAA 	R25764 	8 	10 	  	n
+CCATAAGAAA 	R25909 	14 	10 	  	p
+GGACTGGAAA 	R25927 	-2 	10 	  	n
+TTAAAAGAAA 	R25930 	31 	10 	  	n
+TTCGGGGAAA 	R26378 	8 	10 	  	n
+TTCAGAGAAT 	R29787 	31 	10 	  	p
+TTCTGGGAAA 	R30825 	4 	10 	  	n
+GTTCCAGAAA 	R31000 	8 	10 	  	p
+TTCATAGAAT 	R36238 	7 	10 	  	p
+TTCTAGGAAA 	R36240 	6 	10 	  	n
+TTATGAGAAT 	R36241 	6 	10 	  	n
+TTCAAGGAAA 	R36242 	6 	10 	  	n
+Basis for binding site sequence selection : 21 compiled sequences
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	Identifiers 	jump to top help 	
+	 
+  	  	
+  	  	
+BIOBASE accession : M02117
+	  	 
+	  	 
+  	  	  	  	 
+ 
+  	
+	  	References (1 entry) 	jump to top 	
+	 
+  	  	
+  	  	
+[1] P1502683. New matrix entries from compiled binding sites. Book 20114 0001 (2011).
+	  	 
+	  	 
+  	  	  	  	 
+ 
+Copyright BIOBASE
+All rights reserved. Not for distribution.
+

@@ -1,0 +1,3 @@
+# USAGE GO.send_to_github FILENAME
+ git add $1
+
