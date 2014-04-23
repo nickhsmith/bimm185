@@ -2,7 +2,7 @@
 
 import sys
 
-usage = "USAGE: bin/get_uniprot.py JASPAR_PROTEIN < JASPAR_ID > OUTPUT_FILE \n\t\t Use to generate a motif matrix for each of the files in the JASPAR_ID input"
+usage = "USAGE: bin/get_uniprot.py JASPAR_PROTEIN < JASPAR_ID > OUTPUT_FILE \n\t\t Use to print UNIPROT ID for each of the files in the JASPAR_ID input"
 
 if len(sys.argv) != 2:
 	print usage

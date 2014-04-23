@@ -4,8 +4,9 @@ import sys
 import numpy as np
 
 def print_matrix(matrix):
+	print "A,C,G,T"
 	for i in matrix:
-		print i 
+		print i[0],',',i[1],',',i[2],',',i[3]
 
 def make_freq(matrix):
 	for i in matrix:
@@ -30,7 +31,6 @@ for line in idf:
 
 
 d = {'A':0, 'C':1, 'G':2, 'T':3}
-print hlist
 end = False
 temp = []
 val  = []
