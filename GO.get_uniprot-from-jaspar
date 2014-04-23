@@ -1,0 +1,7 @@
+#$1 = keyword to search in JASPAR
+
+bin/get_annotation_jaspar.py MATRIX_ANNOTATION.txt $1 > $1_annotation_ID.txt
+
+cut -f1 annotation_ID.txt | bin/get_uniprot.py MATRIX_PROTEIN.txt > jaspar_$1_uniprot.fa
+
+

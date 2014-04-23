@@ -1,3 +1,5 @@
 # USAGE GO.send_to_github FILENAME
- git add $1
-
+# $1 is the file name(s)
+date=$date
+git commit -m $date $1
+git push 

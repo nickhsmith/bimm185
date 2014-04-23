@@ -1,0 +1,28 @@
+#$1 = search term, uses grep to find the keyword(part of keyword)
+#$2 = base_file_name
+mkdir $2_output
+
+
+#make freq info for seqlogo in R
+#TODO make post processing script to make R recognizable
+echo "MAKE FREQ MATRIX"
+grep -i $1 MATRIX_ANNOTATION.txt |cut -f1 > $2_output/$2_jasparID.txt
+bin/make_matrix.py MATRIX_SORTED_DATA.txt  $2_output/$2_jasparID.txt > $2_output/$2_freqmatrix.txt
+echo "DONE!"
+echo ''
+echo ''
+
+#get uniprot ID from Jaspar
+echo "GET UNIPROT IDs FROM JASPAR"
+echo -e "JASPAR ID \t UNIPROT ID" > $2_output/$2_uniprotID.txt
+grep -f $2_output/$2_jasparID.txt MATRIX_PROTEIN.txt >> $2_output/$2_uniprotID.txt
+echo "DONE!"
+echo ''
+echo ''
+
+#get pdb superfamily ID from most common uniprot hits
+echo "GET SUPERFAMILY ID FROM UNIPROT LIST"
+cut -f2 $2_output/$2_uniprotID.txt > $2_output/$2_temp
+grep -f $2_output/$2_temp pdbmap.txt| cut -f5 |sort |uniq -c |uniq2tab|cut -f2|remove_last_char|head -n 1 > $2_output/$2_pfam_superfamID
+rm -f $2_output/$2_temp
+echo "DONE!"
