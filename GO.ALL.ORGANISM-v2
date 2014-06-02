@@ -1,0 +1,52 @@
+# first make a directory using mkdir for the organism of choice, make sure that $3 is exactly the same as this new directory
+# move the jaspar data into that folder
+
+
+#$1 = search term, uses grep to find the keyword(part of keyword)
+#$2 = base_file_name
+#$3 = organism file name
+
+mkdir $3/$2_output
+
+echo "$1, $2" > $3/$2_output/search_terms.txt
+
+
+#make freq info for seqlogo in R
+#TODO make post processing script to make R recognizable
+echo "MAKE FREQ MATRIX"
+grep -i $1 $3/$3_jaspar_MATRIX_ANNOTATION.txt |cut -f1 > $3/$2_output/$2_jasparID.txt
+bin/make_matrix-v2.py MATRIX_SORTED_DATA.txt  $3/$2_output/$2_jasparID.txt $3/$3_jaspar_MATRIX_ANNOTATION.txt > $3/$2_output/$2_freqmatrix.txt
+echo "DONE!"
+echo ''
+echo ''
+
+#get uniprot ID from Jaspar
+echo "GET UNIPROT IDs FROM JASPAR"
+echo -e "JASPAR ID \t UNIPROT ID" > $3/$2_output/$2_uniprotID.txt
+grep -f $3/$2_output/$2_jasparID.txt MATRIX_PROTEIN.txt >> $3/$2_output/$2_uniprotID.txt
+echo "DONE!"
+echo ''
+echo ''
+
+#get pdb superfamily ID from most common uniprot hits
+echo "GET SUPERFAMILY ID FROM UNIPROT LIST"
+cut -f2 $3/$2_output/$2_uniprotID.txt > $3/$2_output/$2_temp
+grep -f $3/$2_output/$2_temp pdbmap.txt| cut -f5 |sort |uniq -c |uniq2tab|sort -nr| cut -f2|remove_last_char|head -n 1 > $3/$2_output/$2_pfam_superfamID
+rm -f $3/$2_output/$2_temp
+echo "DONE!"
+echo ''
+echo ''
+
+#break into R managable files for df reading
+echo "BREAK BIG FILE INTO SMALL SINGLE MATRIX PIECES"
+mkdir $3/$2_output/smallR_files
+bin/break_file.py  $2  $3 < $3/$2_output/$2_freqmatrix.txt
+echo "DONE!"
+echo ""
+echo ""
+
+
+#make seqLogo for each file
+echo "Make seqLogo for each matrix piece" 
+Rscript	bin/make_seqLogo.R $2 $3
+echo "DONE!"

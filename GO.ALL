@@ -2,6 +2,8 @@
 #$2 = base_file_name
 mkdir $2_output
 
+echo "$1, $2" > $2_output/search_terms.txt
+
 
 #make freq info for seqlogo in R
 #TODO make post processing script to make R recognizable
@@ -23,6 +25,22 @@ echo ''
 #get pdb superfamily ID from most common uniprot hits
 echo "GET SUPERFAMILY ID FROM UNIPROT LIST"
 cut -f2 $2_output/$2_uniprotID.txt > $2_output/$2_temp
-grep -f $2_output/$2_temp pdbmap.txt| cut -f5 |sort |uniq -c |uniq2tab|cut -f2|remove_last_char|head -n 1 > $2_output/$2_pfam_superfamID
+grep -f $2_output/$2_temp pdbmap.txt| cut -f5 |sort |uniq -c |uniq2tab|sort -nr| cut -f2|remove_last_char|head -n 1 > $2_output/$2_pfam_superfamID
 rm -f $2_output/$2_temp
+echo "DONE!"
+echo ''
+echo ''
+
+#break into R managable files for df reading
+echo "BREAK BIG FILE INTO SMALL SINGLE MATRIX PIECES"
+mkdir $2_output/smallR_files
+bin/break_file.py  $2  < $2_output/$2_freqmatrix.txt
+echo "DONE!"
+echo ""
+echo ""
+
+
+#make seqLogo for each file
+echo "Make seqLogo for each matrix piece" 
+Rscript	bin/make_seqLogo.R $2
 echo "DONE!"

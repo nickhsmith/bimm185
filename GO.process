@@ -1,0 +1,45 @@
+#start to finish find the location of a list of transcription factors in the PWM format and a bed file from ensemble or UCSC
+
+
+#	step 1. Download gene bed file of interest, genome of organism of interest. Download subset of TF of interest from JASPAR or create a file with the following specifications
+#		Each TF must have a header, and a position frequency matrix in the form 
+
+#				>HEADER
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				...			...
+#				empty
+#
+#				>HEADER2
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				
+#				Where number__ is the number of times that nucleotide is present at that position in the motif - line1 is position 1, line2 is position 2 etc. 
+#
+#
+#	step 2.
+#
+#
+
+#bed file information, UCSC download all info, ensemble the following fields
+#Ensembl Gene ID Chromosome Name Gene Start (bp) Gene End (bp)   Strand  Transcript Start (bp)   Transcript End (bp)     Associated Gene Name    UniProt/SwissProt ID    UniProt/SwissProt Accession
+
+
+
+
+
+#gets search region from bed_file and genome directory
+# GO.getSearch
+# bin/motif_matcher-v2.py BED_FILE TF_FILE FILE_TYPE(ensemble/UCSC) DISTANCE > output
+
+#uses GO.search
+bin/freqsearch.py #SEARCH	TF_FILE True/False >> output
+
