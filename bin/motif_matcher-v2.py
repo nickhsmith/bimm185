@@ -86,19 +86,20 @@ def search_region(name,chromosome,bed_line,ftype,range_dist=10000):
 		f.write('>'+line[0]+' '+line[3]+' '+line[5])
 
 	elif ftype == 'ensemble':
+	
 		if line[4] == '-1':
 			strand = '-'
 		else:
 			strand = '+'
 		try:
-			if len(line[8]) > 0:
-				f.write( '>chr'+line[1]+" "+ line[0]+" "+ line[7]+" "+line[8]+" "+ strand+"\n")
+			if len(line[7]) > 0:
+				f.write( '>chr'+line[1]+" "+ line[0]+" "+ line[5]+" "+line[6]+" "+line[7]+" "+ strand+"\n")
 		except IndexError:
 			try:
-				if len(line[7]) >0:
-					f.write('>chr'+line[1]+" "+ line[0]+" "+ line[7]+" "+strand+"\n")
+				if len(line[6]) >0:
+					f.write('>chr'+line[1]+" "+ line[0]+" "+ line[5]+" " +line[6]+" "+strand+"\n")
 			except IndexError:
-					f.write('>chr'+line[1]+" "+ line[0]+" "+strand+"\n")
+					f.write('>chr'+line[1]+" "+ line[0]+" "+line[5]+" "+ strand+"\n")
 	resultPrint(TFsite,strand)
 
 

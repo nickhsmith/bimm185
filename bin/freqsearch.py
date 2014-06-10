@@ -15,19 +15,37 @@ searchregion = open(sys.argv[1],'r')
 freqfile = open(sys.argv[2],'r')
 search_region = searchregion.readlines()
 
-def search(TF,master,search_region):
+def consensus(freq_matrix):
+	for i in range(len(freq_matrix)-1):
+		for j in range(len(freq_matrix[i])):
+			freq_matrix[i][j] = float(freq_matrix[i][j].strip())
+	consensus =''
+	freq_matrix.pop()
+	for line in freq_matrix:
+		if max(line) == line[0]:
+			consensus += 'A'
+		if max(line) == line[1]:
+			consensus += 'C'
+		if max(line) == line[2]:
+			consensus += 'G'
+		if max(line) == line[3]:
+			consensus += 'T'
+
+	return consensus
+
+def search(consensus_list,TF,master,search_region):
 	count = 0
 	count1 = 0
 	
 	interaction_only = False
 	try:
-		if sys.argv[3] == "IO":
+		if sys.argv[3] == "True":
 			interaction_only = True
 		else:
 			interactoin_only = False
 	except IndexError:
 		pass
-	a = []
+	duplicate = []
 	bg = [.25, .25, .25, .25]
 	p = .0001
 	
@@ -35,8 +53,8 @@ def search(TF,master,search_region):
 	header = ''
 	for i in master:
 		count +=1
-		t = MOODS.threshold_from_p(i,bg,p)
-		threshold += [t]
+		#t = MOODS.threshold_from_p(i,bg,p)
+		threshold += [p]
 		print >> sys.stderr, count
 
 	#print threshold
@@ -50,18 +68,23 @@ def search(TF,master,search_region):
 			for i in range(len(master)):
 	
 				tf = TF[i]
-				result = MOODS.search(region,master,threshold,absolute_threshold=threshold)
-				for i in result:
-					for (position,score) in i:
+				tf_length = len(consensus_list[i])
+				#result = MOODS.search(region,master,threshold,absolute_threshold=threshold)
+				result = MOODS.search(region,master,p)
+				for j in result:
+					for (position,score) in j:
 						if interaction_only:
-							if [tf,header] not in a:
-								a += [[tf,header]]
+							if [tf,header] not in duplicate:
+								duplicate += [[tf,header]]
 								print tf.strip(),header.strip()[1:]
 								print ''
 						else:
-							print tf.strip(),header.strip()
-							print 'position:',position,'score:',score
-							print ''
+							if [tf,header,position] not in duplicate:
+								duplicate+= [[tf,header,position]]
+								print tf.strip(),header.strip()[1:]
+								print 'position:',position
+								print consensus_list[i],'Matched the motif in the upstream region:',region[position:position+tf_length]
+								print ''
 
 
 '''
@@ -103,6 +126,7 @@ def search(TF,master,search_region):
 '''
 				
 
+consensusList = []
 master = []
 A_list = []
 C_list = []
@@ -113,11 +137,12 @@ T_list = []
 for i in freqfile:
 	if '>' in i:
 		header = i.strip()
+		fmatrix =[]
 		continue
 	if 'A' == i[0]:
 		continue
 	line = i.strip().split(',')
-	#print line
+	fmatrix += [line]
 
 	'''
 	if len(line) >1:
@@ -147,13 +172,14 @@ for i in freqfile:
 		T_list.append(float(line[3]))
 
 	elif len(A_list) > 0:
+		cseq= consensus(fmatrix)
+		consensusList.append(cseq)
 		master.append([[A_list,C_list,G_list,T_list],header])
 		A_list = []
 		C_list = []
 		G_list = []
 		T_list = []
 
-#print master
 all_matrix = []
 tf_list = []
 
@@ -167,6 +193,6 @@ for i in range(len(master)):
 		all_matrix += [master[i][0]]
 #print len(tf_list)
 #print len(all_matrix)
-search(tf_list,all_matrix, search_region)
+search(consensusList,tf_list,all_matrix, search_region)
 			
 
