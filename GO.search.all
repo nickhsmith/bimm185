@@ -5,8 +5,9 @@ FILES=search_regions/$4*$3*
 #$2: output filename
 #$3: filetype
 #$4: organism
+#$5: interaction (True or False)
 for f in $FILES
 do
   echo "Processing $f file..."
-  bin/freqsearch.py $f $1 False #>> $2 
+  bin/freqsearch.py $f $1 $5 #>> $2 
 done

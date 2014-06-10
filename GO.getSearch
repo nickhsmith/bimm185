@@ -1,9 +1,9 @@
-bin/motif_matcher-v2.py bed_files/gene_data/yeast_ensemble_genes.txt fasta_file/yeast_genome/ ensemble 260 
+bin/motif_matcher-v2.py $1 $2 ensemble $3
 echo "DONE"
-bin/motif_matcher-v2.py bed_files/gene_data/yeast_sgd_genes.bed fasta_file/yeast_genome/ UCSC  260 
-echo "DONE"
-bin/motif_matcher-v2.py bed_files/gene_data/celegans_10_refseq_genes.bed fasta_file/celegans_genome/ UCSC 2000 
-echo "DONE"
-bin/motif_matcher-v2.py bed_files/gene_data/celegans_ensemble_genes.txt fasta_file/celegans_genome/ ensemble 2000 
-echo "DONE"
+#bin/motif_matcher-v2.py bed_files/gene_data/yeast_sgd_genes.bed fasta_file/yeast_genome/ UCSC  260 
+#echo "DONE"
+#bin/motif_matcher-v2.py bed_files/gene_data/celegans_10_refseq_genes.bed fasta_file/celegans_genome/ UCSC 2000 
+#echo "DONE"
+#bin/motif_matcher-v2.py bed_files/gene_data/celegans_ensemble_genes.txt fasta_file/celegans_genome/ ensemble 2000 
+#echo "DONE"
 
