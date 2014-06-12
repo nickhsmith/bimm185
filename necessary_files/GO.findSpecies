@@ -1,0 +1,8 @@
+# $1: JASPAR_ID
+# $2: ORGANISM
+
+
+grep $1 jaspar_species_converter |cut -f1 |bin/find.py MATRIX_ANNOTATION.txt jaspar > $2/$2_jaspar_MATRIX_ANNOTATION.txt
+
+
+
