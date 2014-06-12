@@ -33,7 +33,7 @@ def consensus(freq_matrix):
 
 	return consensus
 
-def search(consensus_list,TF,master,search_region):
+def search(consensus_list,TF,master,search_region,p=0.0001):
 	count = 0
 	count1 = 0
 	
@@ -42,18 +42,15 @@ def search(consensus_list,TF,master,search_region):
 		if sys.argv[3] == "True":
 			interaction_only = True
 		else:
-			interactoin_only = False
+			interaction_only = False
 	except IndexError:
 		pass
 	duplicate = []
-	bg = [.25, .25, .25, .25]
-	p = .0001
 	
 	threshold = []
 	header = ''
 	for i in master:
 		count +=1
-		#t = MOODS.threshold_from_p(i,bg,p)
 		threshold += [p]
 		print >> sys.stderr, count
 
@@ -183,6 +180,14 @@ for i in freqfile:
 all_matrix = []
 tf_list = []
 
+try:
+	p = float(sys.argv[4])
+except IndexError:
+	try:
+		p=float(sys.argv[3])
+	except ValueError:
+		pass
+
 for i in range(len(master)):
 	if len(all_matrix) == 0:
 		tf_list = [master[i][1]]
@@ -193,6 +198,6 @@ for i in range(len(master)):
 		all_matrix += [master[i][0]]
 #print len(tf_list)
 #print len(all_matrix)
-search(consensusList,tf_list,all_matrix, search_region)
+search(consensusList,tf_list,all_matrix, search_region,p)
 			
 
