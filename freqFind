@@ -1,0 +1,111 @@
+#!/bin/bash
+#start to finish find the location of a list of transcription factors in the PWM format and a bed file from ensemble or UCSC
+BED_FILE=$1
+ORGANISM=$2
+SEARCH_TERM=$3
+BASE_NAME=$4
+GENOME_DIR=$5
+INTERACTION=$6
+P_VALUE=$7
+
+
+
+
+
+#	step 1. Download gene bed file of interest (ensemble), genome of organism of interest. Download subset of TF of interest from JASPAR, or create a file with the following specifications
+	#sort the bed files by chromosome number 
+echo "SORT"
+	sort -k2 $BED_FILE > SORTED_$BED_FILE
+T=$BED_FILE
+BED_FILE=SORTED_$T
+
+#		Each TF must have a header, and a position frequency matrix in the form
+	#bed file information, UCSC download all info, ensemble the following fields
+	#Ensembl Gene ID Chromosome Name Gene Start (bp) Gene End (bp)   Strand  Transcript Start (bp)   Transcript End (bp)     Associated Gene Name    UniProt/SwissProt ID    UniProt/SwissProt Accession
+
+#				>HEADER
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				...			...
+#				empty
+#
+#				>HEADER2
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				 numberA, numberC, numberG, numberT 
+#				
+#				Where number__ is the number of times that nucleotide is present at that position in the motif - line1 is position 1, line2 is position 2 etc. 
+#
+#
+##	step 1b. using a known JASPAR identifier search for a specific TF in a specific species
+#		must have jaspar_species_converter downloaded
+#
+		mkdir $ORGANISM
+#
+ID=0
+if [ $ORGANISM = 'human' ]
+then
+	ID=9606
+fi
+
+if [ $ORGANISM = 'yeast' ]
+then
+	ID=4932
+fi
+
+if [ $ORGANISM = 'celegans' ]
+then
+	ID=6239
+fi
+
+#			JASPAR_IDs
+#				human = 9606
+#				yeast = 4932
+#				c. elegans = 6239
+#
+echo "find species"
+			source GO.findSpecies $ID $ORGANISM
+#				Where ID is the jaspar species ID
+#
+echo "GO ALL ORGANISM"
+			source GO.ALL.ORGANISM-v3 $SEARCH_TERM $BASE_NAME $ORGANISM
+#				where SEARCH_TERM is a grep search command for the type of family or class of TF
+#				BASE_FILE_NAME is a user created term for naming the output file
+#				ORGANISM_NAME name of the organism searching used for naming ID--MUST be the same as an existing directory
+#
+
+	
+#	step2. get the searching region for the bed_file from genome file
+
+#		use the following naming convention for chromosome fasta
+#			*chrNUMBER.fa or .fasta			this means that each file in genome directory must be a fasta file of each chromosome where number is a roman numeral for each chromosome (matching the bed_file)
+#
+DIST=0
+if [ $ORGANISM = "celegans" ] 
+then
+	DIST=2000
+fi
+
+
+if [ $ORGANISM = "yeast" ] 
+then
+	DIST=260
+fi
+
+		#gets search region from bed_file and genome directory
+echo "GO get search region"
+		 source GO.getSearch $BED_FILE $GENOME_DIR $DIST
+		# bin/motif_matcher-v2.py BED_FILE TF_FILE FILE_TYPE(ensemble/UCSC) DISTANCE 
+
+
+	#step3. find genes associated with the TF in TF_FILE
+echo "GO search ALL"
+	source GO.search.all $ORGANISM/$BASE_NAME"_output"/$BASE_NAME"_freqmatrix.txt" $BASE_NAME.output ensemble $ORGANISM $INTERACTION $P_VALUE
+
