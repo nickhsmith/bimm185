@@ -1,4 +1,7 @@
 installation and running instructions for freqFind are as follows:
+	necessary components:
+		python 2.7
+		R (seqLogo only)
 
 	Download all scripts in bin/ as well as every file with the start GO (GO*) as well as freqFind into the same directory 
 	Download all MATRIX files (MATRIX_ANNOTATION, MATRIX_PROTEIN, MATRIX_DATA, MATRIX_SORTED_DATA) into the same directroy as the GO and freqFind files
