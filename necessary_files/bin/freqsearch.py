@@ -18,12 +18,15 @@ search_region = searchregion.readlines()
 def align(s1,s2):
 	alignment = ''
 	for i in range(len(s1)):
-		if s1[i] == s2[i]:
-			alignment +='|'
-		elif (s1[i] == 'A' and s2[i] =='T' ) or (s2[i] == 'A' and s1[i] =='T' ) or (s1[i] == 'G' and s2[i] =='C' ) or (s2[i] == 'G' and s1[i] =='C' ):
-			alignment += '.'
-		else:
-			alignment +=' ' 
+		try:
+			if s1[i] == s2[i]:
+					alignment +='|'
+			elif (s1[i] == 'A' and s2[i] =='T' ) or (s2[i] == 'A' and s1[i] =='T' ) or (s1[i] == 'G' and s2[i] =='C' ) or (s2[i] == 'G' and s1[i] =='C' ):
+				alignment += '.'
+			else:
+				alignment +=' ' 
+		except IndexError:
+			break
 
 	print "\tMotif:   ",s1
 	print "\t         ",alignment
@@ -79,23 +82,28 @@ def search(consensus_list,TF,master,search_region,p):
 			for i in range(len(master)):
 	
 				tf = TF[i]
-		#		print tf,consensus_list[i]
+				#print tf,consensus_list[i]
 				tf_length = len(consensus_list[i])
 				#result = MOODS.search(region,master,threshold,absolute_threshold=threshold)
 				result = MOODS.search(region,master,p)
-				for j in result:
-					for (position,score) in j:
+				for check in range(len(result)):
+					for j in range(len(result[check])):
+						position = result[check][j][0]
+						tf_length = len(consensus_list[check])
+						
+						if result[check][j] == []:
+							continue
 						if interaction_only:
-							if [tf,header] not in duplicate:
-								duplicate += [[tf,header]]
+							if [TF[check],header] not in duplicate:
+								duplicate += [[TF[check],header]]
 								print tf.strip(),header.strip()[1:]
 								print ''
 						else:
-							if [tf,header,position] not in duplicate:
-								duplicate+= [[tf,header,position]]
-								print tf.strip(),header.strip()[1:]
+							if [TF[check],header,position] not in duplicate:
+								duplicate+= [[TF[check],header,position]]
+								print TF[check].strip(),header.strip()[1:]
 								print 'position:',position
-								align(consensus_list[i],region[position:position+tf_length])
+								align(consensus_list[check],region[position:position+tf_length])
 								#print consensus_list[i],'Matched the motif in the upstream region:',region[position:position+tf_length]
 								print ''
 
