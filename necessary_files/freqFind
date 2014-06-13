@@ -109,7 +109,7 @@ echo "GO ALL ORGANISM"
 #		use the following naming convention for chromosome fasta
 #			*chrNUMBER.fa or .fasta			this means that each file in genome directory must be a fasta file of each chromosome where number is a roman numeral for each chromosome (matching the bed_file)
 #
-DIST=0
+DIST=1000
 if [ $ORGANISM = "celegans" ] 
 then
 	DIST=2000
@@ -121,8 +121,14 @@ then
 	DIST=260
 fi
 
+#EDIT DISTANCE HERE
+#DIST=???
+
+
+
 		#gets search region from bed_file and genome directory
 mkdir search_regions
+
 echo "GO get search region"
 		 source GO.getSearch $BED_FILE $GENOME_DIR $DIST $ORGANISM
 		# bin/motif_matcher-v2.py BED_FILE TF_FILE FILE_TYPE(ensemble/UCSC) DISTANCE 
