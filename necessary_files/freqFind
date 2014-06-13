@@ -34,7 +34,7 @@ BED_FILE=SORTED_$T
 
 #		Each TF must have a header, and a position frequency matrix in the form
 	#bed file information, UCSC download all info, ensemble the following fields
-	#Ensembl Gene ID Chromosome Name Gene Start (bp) Gene End (bp)   Strand  Transcript Start (bp)   Transcript End (bp)     Associated Gene Name    UniProt/SwissProt ID    UniProt/SwissProt Accession
+	#Ensembl_Gene_ID 	Chromosome_Name		Gene_Start_(bp)		Gene_End_(bp)	Strand	Associated_Gene_Name    UniProt/SwissProt ID    UniProt/SwissProt Accession
 
 #				>HEADER
 #				 numberA, numberC, numberG, numberT 
