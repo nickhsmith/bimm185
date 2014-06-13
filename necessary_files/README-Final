@@ -1,0 +1,30 @@
+installation and running instructions for freqFind are as follows:
+
+	Download all scripts in bin/ as well as every file with the start GO (GO*) as well as freqFind into the same directory 
+	Download all MATRIX files (MATRIX_ANNOTATION, MATRIX_PROTEIN, MATRIX_DATA, MATRIX_SORTED_DATA) into the same directroy as the GO and freqFind files
+	Download jaspar_species_converter and pdbmap.txt into the same directory as the other scripts
+
+	Download a bed file from ensemble BioMart with the following headers:
+		Ensembl_Gene_ID        Chromosome_Name         Gene_Start_(bp)         Gene_End_(bp)   Strand  Associated_Gene_Name    UniProt/SwissProt_ID    UniProt/SwissProt_Accession
+
+How to Run freqFind
+
+	./freqFind  BED_FILE ORGANISM SEARCH_TERM BASE_NAME GENOME_DIR INTERACTION P_VALUE
+		Where:
+                BED_FILE- ensemble bed file (must be in same directory)
+                ORGANISM- text to determine which species transcription factors to generate, currently recognized are mouse,human,celegans,fly and yeast
+                SEARCH_TERM-term used in grep to find classes or families of TFs (case insensitve)
+                BASE_NAME-user specified name for files
+                GENOME_DIR-location of the genome files in fasta format
+                INTERACTION- True or False, specifying if only a list of TF and gene headers are wanted and not sequence information
+                P_VALUE- p-value specified by user
+
+
+this will create new folders ORGANISM,search_regions, and a BASE_NAME.output file
+	ORGANISM will contain the seqLogo and total frequency matrix information
+	search_regions will contain the upstream regions searched by freqFind
+	BASE_NAME.output file will contain the final locations and identifications of genes based on the transcription factor headers
+
+
+	
+	
