@@ -38,11 +38,11 @@ def consensus(freq_matrix):
 	for line in freq_matrix:
 		if max(line) == line[0]:
 			consensus += 'A'
-		if max(line) == line[1]:
+		elif max(line) == line[1]:
 			consensus += 'C'
-		if max(line) == line[2]:
+		elif max(line) == line[2]:
 			consensus += 'G'
-		if max(line) == line[3]:
+		elif max(line) == line[3]:
 			consensus += 'T'
 
 	return consensus
@@ -79,6 +79,7 @@ def search(consensus_list,TF,master,search_region,p):
 			for i in range(len(master)):
 	
 				tf = TF[i]
+		#		print tf,consensus_list[i]
 				tf_length = len(consensus_list[i])
 				#result = MOODS.search(region,master,threshold,absolute_threshold=threshold)
 				result = MOODS.search(region,master,p)

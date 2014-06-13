@@ -38,15 +38,15 @@ echo ''
 echo ''
 
 #break into R managable files for df reading
-#echo "BREAK BIG FILE INTO SMALL SINGLE MATRIX PIECES"
-#mkdir $3/$2_output/smallR_files
-#bin/break_file.py  $2  $3 < $3/$2_output/$2_freqmatrix.txt
-#echo "DONE!"
-#echo ""
-#echo ""
+echo "BREAK BIG FILE INTO SMALL SINGLE MATRIX PIECES"
+mkdir $3/$2_output/smallR_files
+bin/break_file.py  $2  $3 < $3/$2_output/$2_freqmatrix.txt
+echo "DONE!"
+echo ""
+echo ""
 
 
 #make seqLogo for each file
-#echo "Make seqLogo for each matrix piece" 
-#Rscript	bin/make_seqLogo.R $2 $3
-#echo "DONE!"
+echo "Make seqLogo for each matrix piece" 
+Rscript	bin/make_seqLogo.R $2 $3
+echo "DONE!"
